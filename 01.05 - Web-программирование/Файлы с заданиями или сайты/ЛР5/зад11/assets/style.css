@@ -1,0 +1,17 @@
+div {
+  margin: auto;
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+
+  animation: 3s triangle infinite;
+}
+
+@keyframes triangle  {
+  25% {
+    transform: translate(-250px, 250px);
+  }
+  75% {
+    transform: translateX(250px);
+  }
+}
