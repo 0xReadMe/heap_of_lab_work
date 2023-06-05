@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+div {
+  display: flex;
+  flex-direction: row;
+}
+
+p {
+  position: relative;
+  color: blue;
+  margin: 10px;
+  padding: 10px;
+  font-weight: bold;
+  border: 2px solid;
+  border-color: darkblue;
+  float: left;
+}
+
+p:hover {
+  color: red;
+}
+
+

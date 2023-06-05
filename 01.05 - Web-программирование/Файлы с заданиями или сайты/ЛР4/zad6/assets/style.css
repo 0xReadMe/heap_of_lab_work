@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  width: 960px;
+
+  display: grid;
+  grid-template-areas: "header header header" 
+                        "centrbuttons centrbuttons centrbuttons"
+                        "centrcharacterize centrcharacterize centrcharacterize"
+                        "info1 info2 info3"  
+                        "footer footer footer";
+  grid-template-rows: 60px 60px 60px;
+  grid-template-columns: 33% 33% 33%;
+  grid-gap: 10px;
+
+  position: fixed;
+  margin:auto;
+  left:0;
+  right:0;
+
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  grid-area: header; 
+  text-align: center;
+  padding: 5px;
+  margin: 15px;
+  color: lightslategrey;
+}
+
+.centrbuttons {
+  grid-area: centrbuttons;
+  display: flex;
+  justify-content: center;
+  background-color: lightgrey;
+  text-decoration: underline;;
+}
+
+p {
+  padding: 10px;
+  margin: 5px;
+}
+
+.centrcharacterize {
+  grid-area: centrcharacterize;
+  text-align: center;
+  background-color: lightgrey;
+}
+
+.info1 {
+  grid-area: info1;
+  text-align: center;
+  background-color: lightgrey;
+}
+
+.info2 {
+  grid-area: info2;
+  text-align: center;
+  background-color: lightgrey;
+}
+
+.info3 {
+  grid-area: info3;
+  text-align: center;
+  background-color: lightgrey;
+}
+
+.footer {
+  grid-area: footer;
+  background-color: lightgrey;
+  text-align: center;
+}
