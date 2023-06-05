@@ -1,0 +1,260 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Montserrat,sans-serif;
+    background: #f2f2f2;
+    color: #525252;
+    min-width: 320px;
+    margin: 0px;
+    padding: 0px;
+    font-size: 18px;
+}
+.con{
+  text-align: center;
+  color: #8b474b; 
+}
+.container{
+	width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/*---------*/
+header{
+	background-color: #fff;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    z-index: 2000;
+}
+header .conteiner{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+#logo{
+	padding: 0;
+	margin: 0 15px;
+}
+header .links{
+	display: inline-block;
+	list-style: none;
+    padding: 0;
+}
+header .links li{
+	display: inline-block;
+	padding: 0;
+	margin: 0 15px;
+}
+header .links li a{
+	color: #525253;
+    font-size: 20px;
+    text-decoration: none;
+}
+header .links li a:hover{
+	color: #adadad;
+}
+.cart{
+  background: url(images/cart.svg);
+}
+.login{
+  background: url(images/login.svg);
+}
+/*--------*/
+main{
+	max-width: 1048px;
+	margin: 0 auto;
+}
+main .conteiner {
+	position: relative;
+	top: 150px;
+}
+
+
+
+
+main .conteiner .row{
+	max-width: 1170px;
+	height: 320px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+main .conteiner .row .images{
+	padding: 0 10px 10px 0;
+	width: 33.333333333333%;
+	height: 100%;
+	overflow: hidden;
+}
+main .conteiner .row .images img{
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+.h {
+  padding: 10px 20px 50px 20px;
+  text-align: center;
+} 
+.h h1 {
+  font-family: 'Merriweather', serif;
+  position: relative;
+  color: #f2f2f2;
+  background: #8b474b;
+  font-size: 2.5em;
+  font-weight: normal;
+  padding: 10px 40px;
+  display: inline-block;
+  margin: 0;
+  line-height: 1;
+}
+.h h1:before {
+  content: ""; 
+  position: absolute;
+  width: 100%;
+  height: 4px;
+  left: 0;
+  bottom: -15px;
+  background: #8b474b;
+}
+.h h1:after {
+  content: ""; 
+  position: absolute;
+  height: 0;
+  width: 80%;
+  border-top: 10px solid #8b474b;
+  border-left: 12px solid transparent;
+  border-right: 12px solid transparent;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: -25px;
+}
+
+.images{
+  position: relative;
+}
+.price{
+  position: absolute;
+  top: 15%;
+  left: 25%;
+  visibility: hidden;
+  font-weight: bold;
+  color: #8b474b;
+  padding: 15px;
+  text-align: center;
+  font-size: 30px;
+  z-index: 1;
+}
+.price button{
+  background: #8b474b;
+  color: #f2f2f2;
+  font-size: 25px;
+  padding: 10px;
+  border: none;
+}
+.price button:hover{
+  background: #8b474b;
+  color: #f2f2f2;
+  font-size: 25px;
+  padding: 10px;
+  border: none;
+}
+.images:hover .price{
+  visibility: visible;
+  transition: visibility 0.7s; 
+}
+.images:hover img{
+  opacity: 0.3;
+  transition: opacity 0.5s;
+}
+
+.delivery_map{
+  max-width: 1170px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.delivery, .map{
+  width: 50%;
+}
+
+.liners {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+.liners li {
+    display: inline-block;
+    padding: 0 20px;
+}
+.liners li img {
+    width: 120px;
+}
+
+.form{
+  margin: 0 auto;
+  max-width: 500px;
+  
+  padding: 0 10px;
+}
+.form input[type="text"], input[type="email"]{
+  outline: none;
+  border: none;
+  border-bottom: 3px solid #8b474b;
+  line-height: 18px;
+  font-size: 18px;
+  background: none;
+}
+.contact{
+  max-width: 1170px;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+}
+.contact div{
+  width: 33.333333333333%;
+}
+/*-----------*/
+footer{
+	background-color: #ffffff;
+	position: relative;
+	top: 200px;
+	padding: 20px 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    width: 100%;
+}
+footer .conteiner{
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	width: 100%;
+}
+footer .conteiner .column{
+	margin: 0 50px;
+	width: 15%;
+}
+footer .conteiner .column {
+	text-align: center;
+}
+footer .conteiner .column ul{
+	list-style: none;
+    padding: 0;
+    margin: 0;
+}
+footer .conteiner .column li{
+	display: inline-block;
+	padding: 0 10px 0 0;
+}
+footer .conteiner .column .portret li{
+	display: block;
+	padding: 5px 0 0 0;
+}
+
+table{
+  text-align: center;
+}
