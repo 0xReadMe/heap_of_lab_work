@@ -10,7 +10,7 @@
 
 
 Скинуть свои выполненные работы на благо общества: TG @imdolph1n  
-**Внимание** - перед тем как скинуть работы, пожалуйста, прогоните ваши .doc файлы через https://github.com/0xReadMe/0xDocWorker  
+**Внимание** - перед тем как скинуть работы, пожалуйста, прогоните ваши .doc файлы через [0xDocWorker](https://github.com/0xReadMe/0xDocWorker)  
 Очистите файлы от **фамилий** и **имен**, **номеров групп** и прочих вещей.
 
 ![DonateMe](https://static.goodgame.ru/files/logotypes/ch_167749_PobY.png)
