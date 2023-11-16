@@ -1,0 +1,140 @@
+@import url(navigation-footer.css);
+
+
+/*================USER AUTORIZATION================*/
+/*-------LEFT BLOCK-------*/
+.left-container{
+    background: url(../assets/img/personal-account/left-block.jpg);
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+/*-------LEFT BLOCK-------*/
+
+/*-------RIGHT BLOCK-------*/
+.right-container{
+    height: 500px;
+    background-color: rgba(42, 38, 168, 0.603);
+}
+/*-------RIGHT BLOCK-------*/
+
+/*Высота двух контейнеров*/
+.height-100 { 
+    height: 500px;
+}
+
+.main-title {
+    font-size: 36px;
+    color: azure;
+    font-family: "Montserrat-Regular";
+}
+/*---------ICONS---------*/
+.social-list {
+    list-style: none;
+    display: flex;
+}
+
+.social-list li {
+    margin: 5px;
+    background-color: #b7c2d4;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    border-radius: 15px;
+    transition: all 0.5s;
+    cursor: pointer;
+    color: #fff;
+}
+
+.social-list li:nth-child(1) {
+    background-color: rgba(0, 89, 255, 0.623);
+    font-size: 20px;
+}
+
+.social-list li:nth-child(2) {
+    background-color: rgba(85, 169, 218, 0.76);
+    font-size: 20px;
+}
+
+.social-list li:nth-child(3) {
+    background-color: rgba(0, 89, 255, 0.623);
+    font-size: 20px;
+}
+/*---------ICONS---------*/
+/*---------DATA INPUT---------*/
+.form-data {
+    width: 100%;
+    margin-bottom: 10px;
+    font-family: "Montserrat-Regular";
+    color: azure;
+}
+
+.form-data label {
+    font-size: 13px;
+    margin-left: 2px;
+}
+
+.form-check-label{
+    font-family: "Montserrat-Regular";
+    color: azure;
+}
+
+.form-data input {
+    height: 50px;
+    border: 2px solid #eee;
+    transition: all 1s;
+    border-radius: 5px;
+}
+
+.form-data input:focus {
+    outline: none;
+    border: 2px solid #000;
+    box-shadow: none;
+}
+
+.notaccont{
+    font-family: "Montserrat-Regular";
+    color: azure;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.notaccont:active,
+.notaccont:hover{
+    text-decoration: none;
+    color: azure;
+}
+/*---------DATA INPUT---------*/
+/*---------SIGNIN BUTTON---------*/
+.btn {
+    width: 100%;
+    height: 46px;
+    margin-top: 10px;
+    font-family: "Montserrat-Regular";
+    background-color: rgba(85, 169, 218, 0.76);
+    border: none;
+}
+/*---------SIGNIN BUTTON---------*/
+
+/*-------ADAPTABILITY AUTORIZATION-------*/
+@media (max-width: 830px){
+
+}
+@media (max-width: 630px){
+    body{
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        height: 1500px;
+    }
+}
+/*-------ADAPTABILITY AUTORIZATION-------*/
+/*================USER AUTORIZATION================*/
+.fix{
+    width: 400px;
+    height: 500px;
+}

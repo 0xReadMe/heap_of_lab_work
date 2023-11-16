@@ -1,0 +1,128 @@
+G:\ЧМ\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.exe
+G:\ЧМ\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.deps.json
+G:\ЧМ\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.runtimeconfig.json
+G:\ЧМ\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.runtimeconfig.dev.json
+G:\ЧМ\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.dll
+G:\ЧМ\FirstLab\FirstLab\bin\Debug\net5.0\ref\FirstLab.dll
+G:\ЧМ\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.pdb
+G:\ЧМ\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.csproj.AssemblyReference.cache
+G:\ЧМ\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.GeneratedMSBuildEditorConfig.editorconfig
+G:\ЧМ\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.AssemblyInfoInputs.cache
+G:\ЧМ\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.AssemblyInfo.cs
+G:\ЧМ\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.csproj.CoreCompileInputs.cache
+G:\ЧМ\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.dll
+G:\ЧМ\FirstLab\FirstLab\obj\Debug\net5.0\ref\FirstLab.dll
+G:\ЧМ\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.pdb
+G:\ЧМ\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.genruntimeconfig.cache
+C:\Users\SP4-IVC\Desktop\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.exe
+C:\Users\SP4-IVC\Desktop\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.deps.json
+C:\Users\SP4-IVC\Desktop\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.runtimeconfig.json
+C:\Users\SP4-IVC\Desktop\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.runtimeconfig.dev.json
+C:\Users\SP4-IVC\Desktop\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.dll
+C:\Users\SP4-IVC\Desktop\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.pdb
+C:\Users\SP4-IVC\Desktop\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.csproj.AssemblyReference.cache
+C:\Users\SP4-IVC\Desktop\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SP4-IVC\Desktop\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.AssemblyInfoInputs.cache
+C:\Users\SP4-IVC\Desktop\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.AssemblyInfo.cs
+C:\Users\SP4-IVC\Desktop\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.csproj.CoreCompileInputs.cache
+C:\Users\SP4-IVC\Desktop\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.dll
+C:\Users\SP4-IVC\Desktop\FirstLab\FirstLab\obj\Debug\net5.0\refint\FirstLab.dll
+C:\Users\SP4-IVC\Desktop\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.pdb
+C:\Users\SP4-IVC\Desktop\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.genruntimeconfig.cache
+C:\Users\SP4-IVC\Desktop\FirstLab\FirstLab\obj\Debug\net5.0\ref\FirstLab.dll
+C:\Users\8-bit\Desktop\ЧМя\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.exe
+C:\Users\8-bit\Desktop\ЧМя\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.deps.json
+C:\Users\8-bit\Desktop\ЧМя\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.runtimeconfig.json
+C:\Users\8-bit\Desktop\ЧМя\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.runtimeconfig.dev.json
+C:\Users\8-bit\Desktop\ЧМя\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.dll
+C:\Users\8-bit\Desktop\ЧМя\FirstLab\FirstLab\bin\Debug\net5.0\ref\FirstLab.dll
+C:\Users\8-bit\Desktop\ЧМя\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.pdb
+C:\Users\8-bit\Desktop\ЧМя\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.csproj.AssemblyReference.cache
+C:\Users\8-bit\Desktop\ЧМя\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8-bit\Desktop\ЧМя\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.AssemblyInfoInputs.cache
+C:\Users\8-bit\Desktop\ЧМя\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.AssemblyInfo.cs
+C:\Users\8-bit\Desktop\ЧМя\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.csproj.CoreCompileInputs.cache
+C:\Users\8-bit\Desktop\ЧМя\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.dll
+C:\Users\8-bit\Desktop\ЧМя\FirstLab\FirstLab\obj\Debug\net5.0\ref\FirstLab.dll
+C:\Users\8-bit\Desktop\ЧМя\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.pdb
+C:\Users\8-bit\Desktop\ЧМя\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.genruntimeconfig.cache
+D:\3к\Численные методы\ЛР1\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.exe
+D:\3к\Численные методы\ЛР1\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.deps.json
+D:\3к\Численные методы\ЛР1\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.runtimeconfig.json
+D:\3к\Численные методы\ЛР1\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.runtimeconfig.dev.json
+D:\3к\Численные методы\ЛР1\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.dll
+D:\3к\Численные методы\ЛР1\FirstLab\FirstLab\bin\Debug\net5.0\FirstLab.pdb
+D:\3к\Численные методы\ЛР1\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.csproj.AssemblyReference.cache
+D:\3к\Численные методы\ЛР1\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\3к\Численные методы\ЛР1\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.AssemblyInfoInputs.cache
+D:\3к\Численные методы\ЛР1\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.AssemblyInfo.cs
+D:\3к\Численные методы\ЛР1\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.csproj.CoreCompileInputs.cache
+D:\3к\Численные методы\ЛР1\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.dll
+D:\3к\Численные методы\ЛР1\FirstLab\FirstLab\obj\Debug\net5.0\refint\FirstLab.dll
+D:\3к\Численные методы\ЛР1\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.pdb
+D:\3к\Численные методы\ЛР1\FirstLab\FirstLab\obj\Debug\net5.0\FirstLab.genruntimeconfig.cache
+D:\3к\Численные методы\ЛР1\FirstLab\FirstLab\obj\Debug\net5.0\ref\FirstLab.dll
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.exe
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.deps.json
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.runtimeconfig.json
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.runtimeconfig.dev.json
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.dll
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\неудачная попытка\FirstLab\bin\Debug\net5.0\ref\FirstLab.dll
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.pdb
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.csproj.AssemblyReference.cache
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.AssemblyInfoInputs.cache
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.AssemblyInfo.cs
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.csproj.CoreCompileInputs.cache
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.dll
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\неудачная попытка\FirstLab\obj\Debug\net5.0\ref\FirstLab.dll
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.pdb
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.genruntimeconfig.cache
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.exe
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.deps.json
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.runtimeconfig.json
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.runtimeconfig.dev.json
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.dll
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.pdb
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.csproj.AssemblyReference.cache
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.AssemblyInfoInputs.cache
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.AssemblyInfo.cs
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.csproj.CoreCompileInputs.cache
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.dll
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\ref\FirstLab.dll
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.pdb
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.genruntimeconfig.cache
+C:\Users\8-bit\Desktop\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\refint\FirstLab.dll
+D:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.exe
+D:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.deps.json
+D:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.runtimeconfig.json
+D:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.runtimeconfig.dev.json
+D:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.dll
+D:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.pdb
+D:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.csproj.AssemblyReference.cache
+D:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.AssemblyInfoInputs.cache
+D:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.AssemblyInfo.cs
+D:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.csproj.CoreCompileInputs.cache
+D:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.dll
+D:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\refint\FirstLab.dll
+D:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.pdb
+D:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.genruntimeconfig.cache
+D:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\ref\FirstLab.dll
+F:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.exe
+F:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.deps.json
+F:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.runtimeconfig.json
+F:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.runtimeconfig.dev.json
+F:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.dll
+F:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\bin\Debug\net5.0\FirstLab.pdb
+F:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.csproj.AssemblyReference.cache
+F:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.GeneratedMSBuildEditorConfig.editorconfig
+F:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.AssemblyInfoInputs.cache
+F:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.AssemblyInfo.cs
+F:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.csproj.CoreCompileInputs.cache
+F:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.dll
+F:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\refint\FirstLab.dll
+F:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.pdb
+F:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\FirstLab.genruntimeconfig.cache
+F:\3к\Численные методы\ЛР1\!неудачная попытка\FirstLab\obj\Debug\net5.0\ref\FirstLab.dll

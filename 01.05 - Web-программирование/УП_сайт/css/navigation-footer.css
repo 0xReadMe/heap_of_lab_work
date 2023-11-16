@@ -1,0 +1,239 @@
+@import url(fonts-main.css);
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+html {
+    height: 100%;
+}
+body {
+	background-image: url(../assets/img/background/nebo1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height:100%;
+}
+
+/* ==========NAVIGATION========== */
+/*----------MAIN MENU----------*/
+.top-menu {
+    position: relative;
+    background: rgba(42, 38, 168, 0.637); 
+}
+
+.menu-main {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-main:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.menu-main a {
+    text-decoration: none;
+    display: block;
+    line-height: 110px;
+    padding: 0 20px;
+    font-size: 18px;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    transition: .3s linear;
+}
+
+.menu-main a:hover {
+    background: rgba(0,0,0,.3);
+}
+/*----------MAIN MENU----------*/
+
+/*----------LIST----------*/
+.left-item {
+    float: left;
+}
+
+.right-item {
+    float: right;
+}
+
+.navbar-logo {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+/*________ICONS________*/
+.contacts::before{
+    content: "";
+    background-image: url(../assets/img/ico/contacts.png);
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+    display: inline-block;
+    vertical-align: middle;
+} 
+
+.promotions::before{
+    content: "";
+    background-image: url(../assets/img/ico/promo.png);
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.personalacc::before{
+    content: "";
+    background-image: url(../assets/img/ico/login.png);
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.return-to-menu::before{
+    content: "";
+    background-image: url(../assets/img/ico/go-to-menu.png);
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+    display: inline-block;
+}
+/*________ICONS________*/
+/*----------LIST----------*/
+
+/*---------MENU ADAPTABILITY-------*/
+@media (max-width: 830px) {
+    .menu-main {
+        padding-top: 90px;
+        text-align: center;
+    }
+
+    .navbar-logo {
+        position: absolute;
+        left: 50%;
+        top: 10px;
+        transform: translateX(-50%);
+    }
+
+    .menu-main li {
+        float: none;
+        display: inline-block;
+    }
+
+    .menu-main a {
+        line-height: normal;
+        padding: 20px 15px;
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 630px) {
+    .menu-main li {
+        display: block;
+    }
+}
+/*---------MENU ADAPTABILITY-------*/
+/* ==========NAVIGATION========== */
+
+/* ==========FOOTER========== */
+.footer-container{
+    background-color: rgba(42, 38, 168, 0.842);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
+
+.footer-left a{
+    color: white;
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-right a{
+    color: rgba(252, 204, 48, 0.863);
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+/*-------FOOTER ADAPTABILITY-------*/
+@media (max-width: 830px){
+    .footer-container{
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .footer-left a{
+        font-size: 16px;
+    }
+    
+    .footer-right a{
+        font-size: 26px;
+    }
+}
+@media (max-width: 630px){
+    .footer-container{
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .footer-left a{
+        font-size: 14px;
+    }
+    
+    .footer-right a{
+        font-size: 23px;
+    }
+}
+/*-------FOOTER ADAPTABILITY-------*/
+/* ==========FOOTER========== */
+.undefauth{
+    background-color: rgba(42, 38, 168, 0.637);
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 250px;
+
+}
+
+.undefauth h1{
+    font-family: "Montserrat-Regular";
+    color: azure;
+    text-align: center;
+
+}
+
+.undefauth h1 a{
+    text-decoration: none;
+    color: azure;
+}
+
+.undefauth h1 a:hover{
+    text-decoration: none;
+    color: rgb(137, 168, 253);
+}

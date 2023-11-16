@@ -1,0 +1,14 @@
+/* =============FONTS============= */
+@font-face {
+	font-family: 'Montserrat-Black'; 
+	src: url(../assets/fonts/Montserrat/Montserrat-Black.ttf); 
+}
+@font-face {
+	font-family: 'Montserrat-Italic'; 
+	src: url(../assets/fonts/Montserrat/Montserrat-Italic.ttf); 
+}
+@font-face {
+	font-family: 'Montserrat-Regular'; 
+	src: url(../assets/fonts/Montserrat/Montserrat-Regular.ttf); 
+}
+/* =============FONTS============= */

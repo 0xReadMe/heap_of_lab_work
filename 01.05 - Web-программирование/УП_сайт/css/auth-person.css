@@ -1,0 +1,39 @@
+@import url(navigation-footer.css);
+
+.block-php{
+    border: 5px solid rgba(42, 38, 168, 0.637);
+    margin: 0 auto;
+    text-align: center;
+    color: azure;
+    font-family: "Montserrat-Regular";
+    font-size: 14pt;
+    border-radius: 10px;  
+    width: 50vw;
+}
+
+.hello-block{
+    margin: 0 auto;
+    width: 50vw;
+}
+
+.regist{
+    color: azure;
+    font-family: "Montserrat-Regular";
+    text-align: center;
+}
+
+.button-block{
+    margin: 0 auto;
+    width: 250px;
+}
+
+.btn-exit{
+    border-radius: 10px;
+    background-color: rgba(42, 38, 168, 0.637);
+    font-size: 22px;
+    padding: 10px;
+    border-color: white;
+    margin: 0 auto;
+    color: azure;
+    font-family: "Montserrat-Regular";
+}

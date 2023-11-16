@@ -1,0 +1,84 @@
+@import url(navigation-footer.css);
+/* ==========PROMOTIONS========== */
+/*-----------CARDS-----------*/
+.card {
+	width: 380px;
+    margin-bottom: 40px;
+    margin-right: 80px;
+    padding: 45px 45px 55px;
+    box-shadow: 2px 2px 8px rgb(31, 28, 194);
+    background-color: rgba(49, 98, 231, 0.493);
+}
+
+.card-title{
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    color: rgb(255, 196, 0);
+    font-family: "Montserrat-Regular";
+}
+
+.card-content p{
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+    font-family: "Montserrat-Regular";
+    letter-spacing: 1px;
+}
+
+.card-image{
+    width: 100%;
+    transition: 1s; /* Время эффекта */
+}
+
+.card-image:hover {
+    transform: scale(1.2);
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+    width: 790px;
+    font-size: 0;
+    margin: 70px auto;
+}
+/*-----------CARDS-----------*/
+
+/*-----------ADAPTABILITY CARDS-----------*/
+@media (max-width: 830px){
+    .cards{
+        width: 430px;
+        margin: 40px auto;
+        margin-bottom: 120px;
+    }
+    .card{
+        width: 310px;
+        margin-right: 40px;
+    }
+    .card-title{
+        font-size: 20px;
+    }
+    .card-content p{
+        font-size: 14px;
+    }
+}
+@media (max-width: 630px){
+    .cards{
+        width: 330px;
+        margin: 20px auto;
+        margin-bottom: 120px;
+    }
+    .card{
+        width: 280px;
+        margin-right: 40px;
+    }
+    .card-title{
+        font-size: 16px;
+    }
+    .card-content p{
+        font-size: 14px;
+    }
+}
+/*-----------ADAPTABILITY CARDS-----------*/
+/* ==========PROMOTIONS========== */

@@ -1,0 +1,75 @@
+D:\ЧМ\LR2\LR2\bin\Debug\net6.0\LR2.exe
+D:\ЧМ\LR2\LR2\bin\Debug\net6.0\LR2.deps.json
+D:\ЧМ\LR2\LR2\bin\Debug\net6.0\LR2.runtimeconfig.json
+D:\ЧМ\LR2\LR2\bin\Debug\net6.0\LR2.dll
+D:\ЧМ\LR2\LR2\bin\Debug\net6.0\LR2.pdb
+D:\ЧМ\LR2\LR2\obj\Debug\net6.0\LR2.csproj.AssemblyReference.cache
+D:\ЧМ\LR2\LR2\obj\Debug\net6.0\LR2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЧМ\LR2\LR2\obj\Debug\net6.0\LR2.AssemblyInfoInputs.cache
+D:\ЧМ\LR2\LR2\obj\Debug\net6.0\LR2.AssemblyInfo.cs
+D:\ЧМ\LR2\LR2\obj\Debug\net6.0\LR2.csproj.CoreCompileInputs.cache
+D:\ЧМ\LR2\LR2\obj\Debug\net6.0\LR2.dll
+D:\ЧМ\LR2\LR2\obj\Debug\net6.0\refint\LR2.dll
+D:\ЧМ\LR2\LR2\obj\Debug\net6.0\LR2.pdb
+D:\ЧМ\LR2\LR2\obj\Debug\net6.0\LR2.genruntimeconfig.cache
+D:\ЧМ\LR2\LR2\obj\Debug\net6.0\ref\LR2.dll
+E:\ЧМ\LR2\LR2\bin\Debug\net6.0\LR2.exe
+E:\ЧМ\LR2\LR2\bin\Debug\net6.0\LR2.deps.json
+E:\ЧМ\LR2\LR2\bin\Debug\net6.0\LR2.runtimeconfig.json
+E:\ЧМ\LR2\LR2\bin\Debug\net6.0\LR2.dll
+E:\ЧМ\LR2\LR2\bin\Debug\net6.0\LR2.pdb
+E:\ЧМ\LR2\LR2\obj\Debug\net6.0\LR2.csproj.AssemblyReference.cache
+E:\ЧМ\LR2\LR2\obj\Debug\net6.0\LR2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ЧМ\LR2\LR2\obj\Debug\net6.0\LR2.AssemblyInfoInputs.cache
+E:\ЧМ\LR2\LR2\obj\Debug\net6.0\LR2.AssemblyInfo.cs
+E:\ЧМ\LR2\LR2\obj\Debug\net6.0\LR2.csproj.CoreCompileInputs.cache
+E:\ЧМ\LR2\LR2\obj\Debug\net6.0\LR2.dll
+E:\ЧМ\LR2\LR2\obj\Debug\net6.0\refint\LR2.dll
+E:\ЧМ\LR2\LR2\obj\Debug\net6.0\LR2.pdb
+E:\ЧМ\LR2\LR2\obj\Debug\net6.0\LR2.genruntimeconfig.cache
+E:\ЧМ\LR2\LR2\obj\Debug\net6.0\ref\LR2.dll
+G:\ЧМ\Programs\LR2\LR2\bin\Debug\net6.0\LR2.exe
+G:\ЧМ\Programs\LR2\LR2\bin\Debug\net6.0\LR2.deps.json
+G:\ЧМ\Programs\LR2\LR2\bin\Debug\net6.0\LR2.runtimeconfig.json
+G:\ЧМ\Programs\LR2\LR2\bin\Debug\net6.0\LR2.dll
+G:\ЧМ\Programs\LR2\LR2\bin\Debug\net6.0\LR2.pdb
+G:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\LR2.csproj.AssemblyReference.cache
+G:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\LR2.GeneratedMSBuildEditorConfig.editorconfig
+G:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\LR2.AssemblyInfoInputs.cache
+G:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\LR2.AssemblyInfo.cs
+G:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\LR2.csproj.CoreCompileInputs.cache
+G:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\LR2.dll
+G:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\refint\LR2.dll
+G:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\LR2.pdb
+G:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\LR2.genruntimeconfig.cache
+G:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\ref\LR2.dll
+D:\ЧМ\Programs\LR2\LR2\bin\Debug\net6.0\LR2.exe
+D:\ЧМ\Programs\LR2\LR2\bin\Debug\net6.0\LR2.deps.json
+D:\ЧМ\Programs\LR2\LR2\bin\Debug\net6.0\LR2.runtimeconfig.json
+D:\ЧМ\Programs\LR2\LR2\bin\Debug\net6.0\LR2.dll
+D:\ЧМ\Programs\LR2\LR2\bin\Debug\net6.0\LR2.pdb
+D:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\LR2.csproj.AssemblyReference.cache
+D:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\LR2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\LR2.AssemblyInfoInputs.cache
+D:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\LR2.AssemblyInfo.cs
+D:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\LR2.csproj.CoreCompileInputs.cache
+D:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\LR2.dll
+D:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\refint\LR2.dll
+D:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\LR2.pdb
+D:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\LR2.genruntimeconfig.cache
+D:\ЧМ\Programs\LR2\LR2\obj\Debug\net6.0\ref\LR2.dll
+F:\3к\Численные методы\LR2\LR2\bin\Debug\net6.0\LR2.exe
+F:\3к\Численные методы\LR2\LR2\bin\Debug\net6.0\LR2.deps.json
+F:\3к\Численные методы\LR2\LR2\bin\Debug\net6.0\LR2.runtimeconfig.json
+F:\3к\Численные методы\LR2\LR2\bin\Debug\net6.0\LR2.dll
+F:\3к\Численные методы\LR2\LR2\bin\Debug\net6.0\LR2.pdb
+F:\3к\Численные методы\LR2\LR2\obj\Debug\net6.0\LR2.csproj.AssemblyReference.cache
+F:\3к\Численные методы\LR2\LR2\obj\Debug\net6.0\LR2.GeneratedMSBuildEditorConfig.editorconfig
+F:\3к\Численные методы\LR2\LR2\obj\Debug\net6.0\LR2.AssemblyInfoInputs.cache
+F:\3к\Численные методы\LR2\LR2\obj\Debug\net6.0\LR2.AssemblyInfo.cs
+F:\3к\Численные методы\LR2\LR2\obj\Debug\net6.0\LR2.csproj.CoreCompileInputs.cache
+F:\3к\Численные методы\LR2\LR2\obj\Debug\net6.0\LR2.dll
+F:\3к\Численные методы\LR2\LR2\obj\Debug\net6.0\refint\LR2.dll
+F:\3к\Численные методы\LR2\LR2\obj\Debug\net6.0\LR2.pdb
+F:\3к\Численные методы\LR2\LR2\obj\Debug\net6.0\LR2.genruntimeconfig.cache
+F:\3к\Численные методы\LR2\LR2\obj\Debug\net6.0\ref\LR2.dll

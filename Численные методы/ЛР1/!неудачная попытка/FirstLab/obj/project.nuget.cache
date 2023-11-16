@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vyjc0wR6B2IiTJ5iTdeqDPH2AFUaM4kPZNzPUgLW00T+94OMPBJFLQtoHmAS8PXE0ZDQu5+rLxtsIaBeyhTZTw==",
+  "success": true,
+  "projectFilePath": "F:\\3к\\Численные методы\\ЛР1\\!неудачная попытка\\FirstLab\\FirstLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SP4-IVC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\SP4-IVC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\SP4-IVC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\SP4-IVC\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

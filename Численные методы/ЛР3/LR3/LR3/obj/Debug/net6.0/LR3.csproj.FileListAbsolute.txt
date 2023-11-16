@@ -1,0 +1,120 @@
+D:\ЧМ\LR3\LR3\bin\Debug\net6.0\LR3.exe
+D:\ЧМ\LR3\LR3\bin\Debug\net6.0\LR3.deps.json
+D:\ЧМ\LR3\LR3\bin\Debug\net6.0\LR3.runtimeconfig.json
+D:\ЧМ\LR3\LR3\bin\Debug\net6.0\LR3.dll
+D:\ЧМ\LR3\LR3\bin\Debug\net6.0\LR3.pdb
+D:\ЧМ\LR3\LR3\obj\Debug\net6.0\LR3.csproj.AssemblyReference.cache
+D:\ЧМ\LR3\LR3\obj\Debug\net6.0\LR3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЧМ\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfoInputs.cache
+D:\ЧМ\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfo.cs
+D:\ЧМ\LR3\LR3\obj\Debug\net6.0\LR3.csproj.CoreCompileInputs.cache
+D:\ЧМ\LR3\LR3\obj\Debug\net6.0\LR3.dll
+D:\ЧМ\LR3\LR3\obj\Debug\net6.0\refint\LR3.dll
+D:\ЧМ\LR3\LR3\obj\Debug\net6.0\LR3.pdb
+D:\ЧМ\LR3\LR3\obj\Debug\net6.0\LR3.genruntimeconfig.cache
+D:\ЧМ\LR3\LR3\obj\Debug\net6.0\ref\LR3.dll
+E:\LR3\LR3\bin\Debug\net6.0\LR3.exe
+E:\LR3\LR3\bin\Debug\net6.0\LR3.deps.json
+E:\LR3\LR3\bin\Debug\net6.0\LR3.runtimeconfig.json
+E:\LR3\LR3\bin\Debug\net6.0\LR3.dll
+E:\LR3\LR3\bin\Debug\net6.0\LR3.pdb
+E:\LR3\LR3\obj\Debug\net6.0\LR3.csproj.AssemblyReference.cache
+E:\LR3\LR3\obj\Debug\net6.0\LR3.GeneratedMSBuildEditorConfig.editorconfig
+E:\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfoInputs.cache
+E:\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfo.cs
+E:\LR3\LR3\obj\Debug\net6.0\LR3.csproj.CoreCompileInputs.cache
+E:\LR3\LR3\obj\Debug\net6.0\LR3.dll
+E:\LR3\LR3\obj\Debug\net6.0\refint\LR3.dll
+E:\LR3\LR3\obj\Debug\net6.0\LR3.pdb
+E:\LR3\LR3\obj\Debug\net6.0\LR3.genruntimeconfig.cache
+E:\LR3\LR3\obj\Debug\net6.0\ref\LR3.dll
+F:\LR3\LR3\bin\Debug\net6.0\LR3.exe
+F:\LR3\LR3\bin\Debug\net6.0\LR3.deps.json
+F:\LR3\LR3\bin\Debug\net6.0\LR3.runtimeconfig.json
+F:\LR3\LR3\bin\Debug\net6.0\LR3.dll
+F:\LR3\LR3\bin\Debug\net6.0\LR3.pdb
+F:\LR3\LR3\obj\Debug\net6.0\LR3.csproj.AssemblyReference.cache
+F:\LR3\LR3\obj\Debug\net6.0\LR3.GeneratedMSBuildEditorConfig.editorconfig
+F:\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfoInputs.cache
+F:\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfo.cs
+F:\LR3\LR3\obj\Debug\net6.0\LR3.csproj.CoreCompileInputs.cache
+F:\LR3\LR3\obj\Debug\net6.0\LR3.dll
+F:\LR3\LR3\obj\Debug\net6.0\refint\LR3.dll
+F:\LR3\LR3\obj\Debug\net6.0\LR3.pdb
+F:\LR3\LR3\obj\Debug\net6.0\LR3.genruntimeconfig.cache
+F:\LR3\LR3\obj\Debug\net6.0\ref\LR3.dll
+C:\Users\Danila\Desktop\LR3\LR3\bin\Debug\net6.0\LR3.exe
+C:\Users\Danila\Desktop\LR3\LR3\bin\Debug\net6.0\LR3.deps.json
+C:\Users\Danila\Desktop\LR3\LR3\bin\Debug\net6.0\LR3.runtimeconfig.json
+C:\Users\Danila\Desktop\LR3\LR3\bin\Debug\net6.0\LR3.dll
+C:\Users\Danila\Desktop\LR3\LR3\bin\Debug\net6.0\LR3.pdb
+C:\Users\Danila\Desktop\LR3\LR3\obj\Debug\net6.0\LR3.csproj.AssemblyReference.cache
+C:\Users\Danila\Desktop\LR3\LR3\obj\Debug\net6.0\LR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danila\Desktop\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfoInputs.cache
+C:\Users\Danila\Desktop\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfo.cs
+C:\Users\Danila\Desktop\LR3\LR3\obj\Debug\net6.0\LR3.csproj.CoreCompileInputs.cache
+C:\Users\Danila\Desktop\LR3\LR3\obj\Debug\net6.0\LR3.dll
+C:\Users\Danila\Desktop\LR3\LR3\obj\Debug\net6.0\refint\LR3.dll
+C:\Users\Danila\Desktop\LR3\LR3\obj\Debug\net6.0\LR3.pdb
+C:\Users\Danila\Desktop\LR3\LR3\obj\Debug\net6.0\LR3.genruntimeconfig.cache
+C:\Users\Danila\Desktop\LR3\LR3\obj\Debug\net6.0\ref\LR3.dll
+G:\ЧМ\Programs\LR3\LR3\bin\Debug\net6.0\LR3.exe
+G:\ЧМ\Programs\LR3\LR3\bin\Debug\net6.0\LR3.deps.json
+G:\ЧМ\Programs\LR3\LR3\bin\Debug\net6.0\LR3.runtimeconfig.json
+G:\ЧМ\Programs\LR3\LR3\bin\Debug\net6.0\LR3.dll
+G:\ЧМ\Programs\LR3\LR3\bin\Debug\net6.0\LR3.pdb
+G:\ЧМ\Programs\LR3\LR3\obj\Debug\net6.0\LR3.csproj.AssemblyReference.cache
+G:\ЧМ\Programs\LR3\LR3\obj\Debug\net6.0\LR3.GeneratedMSBuildEditorConfig.editorconfig
+G:\ЧМ\Programs\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfoInputs.cache
+G:\ЧМ\Programs\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfo.cs
+G:\ЧМ\Programs\LR3\LR3\obj\Debug\net6.0\LR3.csproj.CoreCompileInputs.cache
+G:\ЧМ\Programs\LR3\LR3\obj\Debug\net6.0\LR3.dll
+G:\ЧМ\Programs\LR3\LR3\obj\Debug\net6.0\refint\LR3.dll
+G:\ЧМ\Programs\LR3\LR3\obj\Debug\net6.0\LR3.pdb
+G:\ЧМ\Programs\LR3\LR3\obj\Debug\net6.0\LR3.genruntimeconfig.cache
+G:\ЧМ\Programs\LR3\LR3\obj\Debug\net6.0\ref\LR3.dll
+C:\Users\8-bit\Desktop\main\3к\Численные методы\ЛР3\LR3\LR3\bin\Debug\net6.0\LR3.exe
+C:\Users\8-bit\Desktop\main\3к\Численные методы\ЛР3\LR3\LR3\bin\Debug\net6.0\LR3.deps.json
+C:\Users\8-bit\Desktop\main\3к\Численные методы\ЛР3\LR3\LR3\bin\Debug\net6.0\LR3.runtimeconfig.json
+C:\Users\8-bit\Desktop\main\3к\Численные методы\ЛР3\LR3\LR3\bin\Debug\net6.0\LR3.dll
+C:\Users\8-bit\Desktop\main\3к\Численные методы\ЛР3\LR3\LR3\bin\Debug\net6.0\LR3.pdb
+C:\Users\8-bit\Desktop\main\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.csproj.AssemblyReference.cache
+C:\Users\8-bit\Desktop\main\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8-bit\Desktop\main\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfoInputs.cache
+C:\Users\8-bit\Desktop\main\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfo.cs
+C:\Users\8-bit\Desktop\main\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.csproj.CoreCompileInputs.cache
+C:\Users\8-bit\Desktop\main\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.dll
+C:\Users\8-bit\Desktop\main\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\refint\LR3.dll
+C:\Users\8-bit\Desktop\main\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.pdb
+C:\Users\8-bit\Desktop\main\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.genruntimeconfig.cache
+C:\Users\8-bit\Desktop\main\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\ref\LR3.dll
+E:\3к\Численные методы\ЛР3\LR3\LR3\bin\Debug\net6.0\LR3.exe
+E:\3к\Численные методы\ЛР3\LR3\LR3\bin\Debug\net6.0\LR3.deps.json
+E:\3к\Численные методы\ЛР3\LR3\LR3\bin\Debug\net6.0\LR3.runtimeconfig.json
+E:\3к\Численные методы\ЛР3\LR3\LR3\bin\Debug\net6.0\LR3.dll
+E:\3к\Численные методы\ЛР3\LR3\LR3\bin\Debug\net6.0\LR3.pdb
+E:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.csproj.AssemblyReference.cache
+E:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.GeneratedMSBuildEditorConfig.editorconfig
+E:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfoInputs.cache
+E:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfo.cs
+E:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.csproj.CoreCompileInputs.cache
+E:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.dll
+E:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\refint\LR3.dll
+E:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.pdb
+E:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.genruntimeconfig.cache
+E:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\ref\LR3.dll
+F:\3к\Численные методы\ЛР3\LR3\LR3\bin\Debug\net6.0\LR3.exe
+F:\3к\Численные методы\ЛР3\LR3\LR3\bin\Debug\net6.0\LR3.deps.json
+F:\3к\Численные методы\ЛР3\LR3\LR3\bin\Debug\net6.0\LR3.runtimeconfig.json
+F:\3к\Численные методы\ЛР3\LR3\LR3\bin\Debug\net6.0\LR3.dll
+F:\3к\Численные методы\ЛР3\LR3\LR3\bin\Debug\net6.0\LR3.pdb
+F:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.csproj.AssemblyReference.cache
+F:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.GeneratedMSBuildEditorConfig.editorconfig
+F:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfoInputs.cache
+F:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfo.cs
+F:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.csproj.CoreCompileInputs.cache
+F:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.dll
+F:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\refint\LR3.dll
+F:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.pdb
+F:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\LR3.genruntimeconfig.cache
+F:\3к\Численные методы\ЛР3\LR3\LR3\obj\Debug\net6.0\ref\LR3.dll

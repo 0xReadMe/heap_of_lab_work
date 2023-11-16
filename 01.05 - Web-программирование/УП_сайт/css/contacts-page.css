@@ -1,0 +1,144 @@
+@import url(navigation-footer.css);
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+/*=============MAIN BLOCK=============*/
+.main-block{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 75px;
+}
+/*=============MAIN BLOCK=============*/
+
+/*=============CONTACTS INFORMATION=============*/
+.trust-info{
+    margin: 0 auto;
+    width: 600px;
+    height: 600px;
+    box-shadow: 2px 2px 8px rgb(31, 28, 194);
+    background-color: rgba(49, 98, 231, 0.493);
+}
+
+.trust-info p{
+    font-family: "Montserrat-Regular";
+    color: azure;
+    font-size: 17spx;
+    line-height: 1.5;
+    padding-left: 25px;
+    padding-right: 25px;
+    
+}
+
+.main-title-info{
+    color: rgb(255, 196, 0);
+    font-size: 25px;
+    font-family: "Montserrat-Regular";
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+/*=============CONTACTS INFORMATION=============*/
+
+/*=============CONTACTS CARD=============*/
+.main-title-contacts{
+    color: rgb(255, 196, 0);
+    font-size: 25px;
+    font-family: "Montserrat-Regular";
+}
+/*--------CONTACTS--------*/
+.contacts-menu {
+    width: 600px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 2px 2px 8px rgb(31, 28, 194);
+    background-color: rgba(49, 98, 231, 0.493);
+}
+
+.contacts-block {
+    float: left;
+    margin-bottom: 20px;
+}
+
+.contacts-title {
+    font-size: 24px;
+    color: rgb(255, 196, 0);
+    line-height: 1;
+    margin-bottom: 8px;
+    margin-top: 38px;
+    font-family: "Montserrat-Regular";
+}
+
+.contacts-description{
+    font-family: "Montserrat-Regular";
+    color: azure;
+    font-size: 15px;
+}
+
+/*________ICON CONTACTS________*/
+.ico-wrap {
+    color: rgb(255, 196, 0);
+    width: 40px;
+    height: 40px;
+    margin: 30px 18px 5px 5px;
+    display: block;
+    text-align: center;
+    font-size: 25px;
+    border: 2px solid rgb(255, 196, 0);
+    float: left;
+    border-radius: 30px;
+}
+.ico-contact {
+    line-height: 1.55;
+}
+/*________ICON CONTACTS________*/
+/*--------CONTACTS--------*/
+
+/*-------ADAPTABILITY CONTACTS-------*/
+@media (max-width: 830px){
+    .main-block{
+        display: block;
+    }
+    .trust-info{
+        width: 450px;
+        height: 600px;
+        margin-bottom: 75px;
+    }
+    .contacts-menu{
+        width: 450px;
+        height: 600px;
+        margin-bottom: 120px;
+    }
+}
+@media (max-width: 630px){
+    .main-block{
+        display: block;
+    }
+    .trust-info{
+        width: 250px;
+        height: 600px;
+        margin-bottom: 75px;
+    }
+    .contacts-menu{
+        width: 250px;
+        height: 600px;
+        margin-bottom: 120px;
+    }
+    .contacts-description{
+        font-size: 14px;
+        margin-left: 15px;
+    }
+    .contacts-title{
+        font-size: 18px;
+    }
+    .trust-info p{
+        font-size: 12px;
+    }
+    .main-title-info{
+        font-size: 21px;
+        padding-bottom: 10px;
+        padding-top: 50px;
+    }
+}
+/*-------ADAPTABILITY CONTACTS-------*/
+/*=============CONTACTS CARD=============*/

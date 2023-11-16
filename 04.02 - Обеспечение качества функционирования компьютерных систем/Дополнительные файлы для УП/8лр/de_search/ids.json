@@ -1,0 +1,15 @@
+{
+	"1": ["Начальная... Требуется Advanced-лицензия!", "index.htm", []],
+	"2": ["1. ЛИЦЕНЗИОНН... Требуется Advanced-лицензия!", "litsenzionnoe_soglashenie.htm", []],
+	"3": ["1.1. Использов... Требуется Advanced-лицензия!", "ispolzovanie_programmy_.htm", [1]],
+	"4": ["1.2. Хранение и ис... Требуется Advanced-лицензия!", "khranenie_i_ispolzovanie_v_seti_.htm", [1]],
+	"5": ["2. ОПИСАНИЕ ПРОЧИХ... Требуется Advanced-лицензия!", "opisanie_prochikh_prav_i_ogranichenij.htm", []],
+	"6": ["2.1. Ограничения на вскрытие технолог... Требуется Advanced-лицензия!", "ogranicheniya_na_vskrytie_tekhnologii__dekompilyatsiyu_i_dizassemblirovanie_.htm", [2]],
+	"7": ["2.2. Разделен... Требуется Advanced-лицензия!", "razdelenie_programmy_.htm", [2]],
+	"8": ["2.3. П... Требуется Advanced-лицензия!", "prokat_.htm", [2]],
+	"9": ["2.4. Услуги по тех... Требуется Advanced-лицензия!", "uslugi_po_tekhnicheskoj_podderzhke_.htm", [2]],
+	"10": ["2.5. Передач... Требуется Advanced-лицензия!", "peredacha_programmy_.htm", [2]],
+	"11": ["2.6. Прекращение д... Требуется Advanced-лицензия!", "prekrashchenie_dejstviya_soglasheniya_.htm", [2]],
+	"12": ["3. АВТОРС... Требуется Advanced-лицензия!", "avtorskoe_pravo_.htm", []],
+	"13": ["4.  РАЗЛИЧНЫЕ НО... Требуется Advanced-лицензия!", "_razlichnye_nositeli_programm__.htm", []]
+}
