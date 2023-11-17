@@ -1,0 +1,31 @@
+﻿<Window x:Class="PayM.Aauthorization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PayM"
+        mc:Ignorable="d"
+        Title="Aauthorization" Height="250" Width="400" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="76"></RowDefinition>
+            <RowDefinition Height="76"></RowDefinition>
+            <RowDefinition Height="76"></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">Имя пользователя</TextBlock>
+        <ComboBox x:Name="UserField" Width="200" Height="25" Grid.Row="0" Grid.Column="1"></ComboBox>
+
+        <TextBlock Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">Пароль</TextBlock>
+        <PasswordBox x:Name="PasswordField" Width="200" Height="30" Grid.Row="1" Grid.Column="1"></PasswordBox>
+
+        <Button x:Name="Enter" Click="Enter_Click"  Grid.Row="2" Grid.Column="1" Width="90" Height="35" HorizontalAlignment="Left" Margin="34,10,0,31" >Войти</Button>
+        <Button x:Name="Exit" Click="Exit_Click"  Grid.Row="2" Grid.Column="1" Width="90" Height="35" HorizontalAlignment="Left" Margin="144,10,0,31" >Выход</Button>
+    </Grid>
+</Window>

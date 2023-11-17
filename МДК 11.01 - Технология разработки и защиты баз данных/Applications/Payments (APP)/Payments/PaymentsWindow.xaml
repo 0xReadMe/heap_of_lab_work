@@ -1,0 +1,46 @@
+﻿<Window x:Class="Payments.PaymentsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Payments"
+        mc:Ignorable="d"
+        Title="PaymentsWindow" Height="450" Width="1250" WindowStartupLocation="CenterScreen" Closing="Window_Closing" >
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="BtnAdd" Width="50" Content="+" Click="BtnAdd_Click"></Button>
+                <Button x:Name="BtnDelete" Width="50" Content="-" Click="BtnDelete_Click"></Button>
+                <TextBlock Width="20" Text="C" VerticalAlignment="Center"></TextBlock>
+                <DatePicker x:Name="DpkStart"></DatePicker>
+                <TextBlock Width="20" Text="ПО" VerticalAlignment="Center"></TextBlock>
+                <DatePicker x:Name="DpkEnd"></DatePicker>
+                <TextBlock Width="60" Text="Категория" VerticalAlignment="Center"></TextBlock>
+                <ComboBox x:Name="CbCategory" DisplayMemberPath="Name"></ComboBox>
+                <Button x:Name="BtnFilter" Content="Выбрать" Click="BtnFilter_Click"></Button>
+                <Button x:Name="BtnClear" Content="Очистить" Click="BtnClear_Click"></Button>
+                <Button x:Name="BtnReport" Click="BtnReport_Click" Content="Отчет"></Button>
+                <Button x:Name="BtnDiagram" Click="BtnDiagram_Click" Content="Диаграмма"></Button>
+            </StackPanel>
+         
+            <DataGrid x:Name="DgPayments" Width="1150" Height="300" AlternatingRowBackground="AliceBlue"  IsReadOnly="True"
+                    ScrollViewer.CanContentScroll="True" 
+      ScrollViewer.VerticalScrollBarVisibility="Auto"  >
+                <DataGrid.ItemContainerStyle>
+                    <Style TargetType="DataGridRow">
+                        <EventSetter Event="MouseDoubleClick" Handler="Row_DoubleClick"/>
+                    </Style>
+                </DataGrid.ItemContainerStyle>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Наименование платежа" Binding="{Binding Discription}" Width="*"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Количество" Binding="{Binding Count}" Width="*"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Цена" Binding="{Binding Price}" Width="*"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Сумма" Binding="{Binding Cost}" Width="*"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Категория" Binding="{Binding Categories.Name}" Width="*"></DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+           
+        </StackPanel> 
+        
+    </Grid>
+</Window>

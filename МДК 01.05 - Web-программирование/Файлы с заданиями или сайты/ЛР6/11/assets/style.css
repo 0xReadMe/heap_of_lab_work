@@ -1,0 +1,50 @@
+* {
+   border-collapse: none;
+}
+
+body {
+   background-color: rgb(23, 153, 103);
+   font-family: Arial, sans-serif;
+}
+
+.parent{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    margin-top: 50px;
+}
+
+form {
+   display: flex;
+   align-items: center;
+   align-content: center; 
+   justify-content: center;
+   flex-direction: column;
+   font-size: 26px;
+   
+}
+
+fieldset {
+   background-color: rgb(122, 191, 165);
+   border: none;
+   border-radius: 12px;
+}
+
+#bttn {
+   border: 3px solid #4CAF50;
+   background-color: rgb(142, 231, 165);
+   border-radius: 12px;
+   text-decoration: none;
+}
+
+.a, .b, .P, .S{
+   background-color: rgb(142, 231, 165);
+   border-radius: 7px;
+   margin-right: 5px;
+}
+
+#resultP, #resultS {
+   background-color: rgb(182, 231, 165);
+   border-radius: 7px;
+   color: rgb(122, 53, 165);
+}

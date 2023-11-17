@@ -1,0 +1,9 @@
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\Payment.csproj.AssemblyReference.cache
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\MainWindow.g.cs
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\PaymentsWindow.g.cs
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\App.g.cs
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\Payments_Content.g.cs
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\Payments_MarkupCompile.cache
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\Payments_MarkupCompile.lref
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\Payments.exe
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\Payments.pdb

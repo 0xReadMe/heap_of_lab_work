@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="sampleModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="department">
+    <Key>
+      <PropertyRef Name="dept_no" />
+    </Key>
+    <Property Name="dept_no" Type="String" MaxLength="4" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="dept_name" Type="String" MaxLength="25" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="location" Type="String" MaxLength="30" FixedLength="true" Unicode="false" />
+    <NavigationProperty Name="employee" Relationship="Self.foreign_emp" FromRole="department" ToRole="employee" />
+  </EntityType>
+  <EntityType Name="employee">
+    <Key>
+      <PropertyRef Name="emp_no" />
+    </Key>
+    <Property Name="emp_no" Type="Int32" Nullable="false" />
+    <Property Name="emp_fname" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="emp_lname" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="dept_no" Type="String" MaxLength="4" FixedLength="true" Unicode="false" />
+    <NavigationProperty Name="department" Relationship="Self.foreign_emp" FromRole="employee" ToRole="department" />
+    <NavigationProperty Name="works_on" Relationship="Self.foreign1_works" FromRole="employee" ToRole="works_on" />
+  </EntityType>
+  <EntityType Name="project">
+    <Key>
+      <PropertyRef Name="project_no" />
+    </Key>
+    <Property Name="project_no" Type="String" MaxLength="4" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="project_name" Type="String" MaxLength="15" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="budget" Type="Double" />
+    <NavigationProperty Name="works_on" Relationship="Self.foreign2_works" FromRole="project" ToRole="works_on" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="works_on">
+    <Key>
+      <PropertyRef Name="emp_no" />
+      <PropertyRef Name="project_no" />
+    </Key>
+    <Property Name="emp_no" Type="Int32" Nullable="false" />
+    <Property Name="project_no" Type="String" MaxLength="4" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="job" Type="String" MaxLength="15" FixedLength="true" Unicode="false" />
+    <Property Name="enter_date" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="employee" Relationship="Self.foreign1_works" FromRole="works_on" ToRole="employee" />
+    <NavigationProperty Name="project" Relationship="Self.foreign2_works" FromRole="works_on" ToRole="project" />
+  </EntityType>
+  <Association Name="foreign_emp">
+    <End Role="department" Type="Self.department" Multiplicity="0..1" />
+    <End Role="employee" Type="Self.employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="department">
+        <PropertyRef Name="dept_no" />
+      </Principal>
+      <Dependent Role="employee">
+        <PropertyRef Name="dept_no" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreign1_works">
+    <End Role="employee" Type="Self.employee" Multiplicity="1" />
+    <End Role="works_on" Type="Self.works_on" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="employee">
+        <PropertyRef Name="emp_no" />
+      </Principal>
+      <Dependent Role="works_on">
+        <PropertyRef Name="emp_no" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreign2_works">
+    <End Role="project" Type="Self.project" Multiplicity="1" />
+    <End Role="works_on" Type="Self.works_on" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="project">
+        <PropertyRef Name="project_no" />
+      </Principal>
+      <Dependent Role="works_on">
+        <PropertyRef Name="project_no" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="sampleEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="department" EntityType="Self.department" />
+    <EntitySet Name="employee" EntityType="Self.employee" />
+    <EntitySet Name="project" EntityType="Self.project" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="works_on" EntityType="Self.works_on" />
+    <AssociationSet Name="foreign_emp" Association="Self.foreign_emp">
+      <End Role="department" EntitySet="department" />
+      <End Role="employee" EntitySet="employee" />
+    </AssociationSet>
+    <AssociationSet Name="foreign1_works" Association="Self.foreign1_works">
+      <End Role="employee" EntitySet="employee" />
+      <End Role="works_on" EntitySet="works_on" />
+    </AssociationSet>
+    <AssociationSet Name="foreign2_works" Association="Self.foreign2_works">
+      <End Role="project" EntitySet="project" />
+      <End Role="works_on" EntitySet="works_on" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

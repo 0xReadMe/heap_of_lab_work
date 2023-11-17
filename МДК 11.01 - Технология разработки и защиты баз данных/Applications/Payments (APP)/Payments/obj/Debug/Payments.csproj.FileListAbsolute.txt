@@ -1,0 +1,234 @@
+C:\Users\evkar\source\repos\Payments\Payments\bin\Debug\Payments.exe.config
+C:\Users\evkar\source\repos\Payments\Payments\bin\Debug\Payments.exe
+C:\Users\evkar\source\repos\Payments\Payments\bin\Debug\Payments.pdb
+C:\Users\evkar\source\repos\Payments\Payments\bin\Debug\EntityFramework.dll
+C:\Users\evkar\source\repos\Payments\Payments\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\evkar\source\repos\Payments\Payments\bin\Debug\EntityFramework.xml
+C:\Users\evkar\source\repos\Payments\Payments\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\evkar\source\repos\Payments\Payments\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\Payments.csproj.AssemblyReference.cache
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\MainWindow.g.cs
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\App.g.cs
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\Payments_Content.g.cs
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\Payments_MarkupCompile.cache
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\Payments_MarkupCompile.lref
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\App.baml
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\MainWindow.baml
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\Payments.g.resources
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\Payments.Properties.Resources.resources
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\Payments.csproj.GenerateResource.cache
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\Payments.csproj.CoreCompileInputs.cache
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\Payments.csproj.CopyComplete
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\Payments.exe
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\Payments.pdb
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\PaymentsWindow.g.cs
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\PaymentsWindow.baml
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\PaymentsAdd.g.cs
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\PaymentsAdd.baml
+C:\Users\evkar\source\repos\Payments\Payments\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\evkar\source\repos\Payments\Payments\bin\Debug\itextsharp.dll
+C:\Users\evkar\source\repos\Payments\Payments\bin\Debug\itextsharp.xml
+C:\Users\evkar\source\repos\Payments\Payments\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\bin\Debug\Payments.exe.config
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\bin\Debug\Payments.exe
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\bin\Debug\Payments.pdb
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\bin\Debug\EntityFramework.dll
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\bin\Debug\itextsharp.dll
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\bin\Debug\EntityFramework.xml
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\bin\Debug\itextsharp.xml
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\Payments.csproj.AssemblyReference.cache
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\MainWindow.g.cs
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\PaymentsAdd.g.cs
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\PaymentsWindow.g.cs
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\App.g.cs
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\Payments_Content.g.cs
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\Payments_MarkupCompile.cache
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\Payments_MarkupCompile.lref
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\App.baml
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\MainWindow.baml
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\PaymentsAdd.baml
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\PaymentsWindow.baml
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\Payments.g.resources
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\Payments.Properties.Resources.resources
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\Payments.csproj.GenerateResource.cache
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\Payments.csproj.CoreCompileInputs.cache
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\Payments.csproj.CopyComplete
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\Payments.exe
+C:\Users\evkar\OneDrive\Рабочий стол\Payments\Payments\obj\Debug\Payments.pdb
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\PaymentsDiagram.g.cs
+C:\Users\evkar\source\repos\Payments\Payments\obj\Debug\PaymentsDiagram.baml
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\bin\Debug\Payments.exe.config
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\bin\Debug\Payments.exe
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\bin\Debug\Payments.pdb
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\bin\Debug\BouncyCastle.Crypto.dll
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\bin\Debug\EntityFramework.dll
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\bin\Debug\EntityFramework.SqlServer.dll
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\bin\Debug\itextsharp.dll
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\bin\Debug\EntityFramework.xml
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\bin\Debug\EntityFramework.SqlServer.xml
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\bin\Debug\itextsharp.xml
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\bin\Debug\ru\EntityFramework.resources.dll
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\Payments.csproj.AssemblyReference.cache
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\MainWindow.g.cs
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\PaymentsAdd.g.cs
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\PaymentsDiagram.g.cs
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\PaymentsWindow.g.cs
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\App.g.cs
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\Payments_Content.g.cs
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\Payments_MarkupCompile.cache
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\Payments_MarkupCompile.lref
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\App.baml
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\MainWindow.baml
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\PaymentsAdd.baml
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\PaymentsDiagram.baml
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\PaymentsWindow.baml
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\Payments.g.resources
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\Payments.Properties.Resources.resources
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\Payments.csproj.GenerateResource.cache
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\Payments.csproj.CoreCompileInputs.cache
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\Payments.csproj.CopyComplete
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\Payments.exe
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\Payments.pdb
+\\192.168.10.100\home\Карташова\Базы данных\ЛР 21-22\Приложения\Payments\Payments\obj\Debug\Payments.csproj.SuggestedBindingRedirects.cache
+C:\Users\SP4-IVC\Desktop\Payments\Payments\bin\Debug\Payments.exe.config
+C:\Users\SP4-IVC\Desktop\Payments\Payments\bin\Debug\Payments.exe
+C:\Users\SP4-IVC\Desktop\Payments\Payments\bin\Debug\Payments.pdb
+C:\Users\SP4-IVC\Desktop\Payments\Payments\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SP4-IVC\Desktop\Payments\Payments\bin\Debug\EntityFramework.dll
+C:\Users\SP4-IVC\Desktop\Payments\Payments\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SP4-IVC\Desktop\Payments\Payments\bin\Debug\itextsharp.dll
+C:\Users\SP4-IVC\Desktop\Payments\Payments\bin\Debug\EntityFramework.xml
+C:\Users\SP4-IVC\Desktop\Payments\Payments\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SP4-IVC\Desktop\Payments\Payments\bin\Debug\itextsharp.xml
+C:\Users\SP4-IVC\Desktop\Payments\Payments\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SP4-IVC\Desktop\Payments\Payments\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\Payments.csproj.AssemblyReference.cache
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\Payments.csproj.SuggestedBindingRedirects.cache
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\MainWindow.g.cs
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\PaymentsAdd.g.cs
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\PaymentsDiagram.g.cs
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\PaymentsWindow.g.cs
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\App.g.cs
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\Payments_Content.g.cs
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\Payments_MarkupCompile.cache
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\Payments_MarkupCompile.lref
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\App.baml
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\MainWindow.baml
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\PaymentsAdd.baml
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\PaymentsDiagram.baml
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\PaymentsWindow.baml
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\Payments.g.resources
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\Payments.Properties.Resources.resources
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\Payments.csproj.GenerateResource.cache
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\Payments.csproj.CoreCompileInputs.cache
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\Payments.csproj.CopyComplete
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\Payments.exe
+C:\Users\SP4-IVC\Desktop\Payments\Payments\obj\Debug\Payments.pdb
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\Payments.exe.config
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\Payments.exe
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\Payments.pdb
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\BouncyCastle.Crypto.dll
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\EntityFramework.dll
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\EntityFramework.SqlServer.dll
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\itextsharp.dll
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\EntityFramework.xml
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\EntityFramework.SqlServer.xml
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\itextsharp.xml
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\ru\EntityFramework.resources.dll
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.csproj.AssemblyReference.cache
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.csproj.SuggestedBindingRedirects.cache
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\MainWindow.g.cs
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\PaymentsAdd.g.cs
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\PaymentsDiagram.g.cs
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\PaymentsWindow.g.cs
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\App.g.cs
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments_Content.g.cs
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments_MarkupCompile.cache
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments_MarkupCompile.lref
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\App.baml
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\MainWindow.baml
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\PaymentsAdd.baml
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\PaymentsDiagram.baml
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\PaymentsWindow.baml
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.g.resources
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.Properties.Resources.resources
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.csproj.GenerateResource.cache
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.csproj.CoreCompileInputs.cache
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.csproj.CopyComplete
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.exe
+E:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.pdb
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\Payments.exe.config
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\Payments.exe
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\Payments.pdb
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\BouncyCastle.Crypto.dll
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\EntityFramework.dll
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\EntityFramework.SqlServer.dll
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\itextsharp.dll
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\EntityFramework.xml
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\EntityFramework.SqlServer.xml
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\itextsharp.xml
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\ru\EntityFramework.resources.dll
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.csproj.AssemblyReference.cache
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.csproj.SuggestedBindingRedirects.cache
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\MainWindow.g.cs
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\PaymentsAdd.g.cs
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\PaymentsDiagram.g.cs
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\PaymentsWindow.g.cs
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\App.g.cs
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments_Content.g.cs
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments_MarkupCompile.cache
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments_MarkupCompile.lref
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\App.baml
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\MainWindow.baml
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\PaymentsAdd.baml
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\PaymentsDiagram.baml
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\PaymentsWindow.baml
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.g.resources
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.Properties.Resources.resources
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.csproj.GenerateResource.cache
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.csproj.CoreCompileInputs.cache
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.csproj.CopyComplete
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.exe
+D:\2ое полугодие\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.pdb
+E:\БД\Applications\Payments (APP)\Payments\bin\Debug\Payments.exe.config
+E:\БД\Applications\Payments (APP)\Payments\bin\Debug\Payments.exe
+E:\БД\Applications\Payments (APP)\Payments\bin\Debug\Payments.pdb
+E:\БД\Applications\Payments (APP)\Payments\bin\Debug\BouncyCastle.Crypto.dll
+E:\БД\Applications\Payments (APP)\Payments\bin\Debug\EntityFramework.dll
+E:\БД\Applications\Payments (APP)\Payments\bin\Debug\EntityFramework.SqlServer.dll
+E:\БД\Applications\Payments (APP)\Payments\bin\Debug\itextsharp.dll
+E:\БД\Applications\Payments (APP)\Payments\bin\Debug\EntityFramework.xml
+E:\БД\Applications\Payments (APP)\Payments\bin\Debug\EntityFramework.SqlServer.xml
+E:\БД\Applications\Payments (APP)\Payments\bin\Debug\itextsharp.xml
+E:\БД\Applications\Payments (APP)\Payments\bin\Debug\ru\EntityFramework.resources.dll
+E:\БД\Applications\Payments (APP)\Payments\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.csproj.AssemblyReference.cache
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.csproj.SuggestedBindingRedirects.cache
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\MainWindow.g.cs
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\PaymentsAdd.g.cs
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\PaymentsDiagram.g.cs
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\PaymentsWindow.g.cs
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\App.g.cs
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments_Content.g.cs
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments_MarkupCompile.cache
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments_MarkupCompile.lref
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\App.baml
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\MainWindow.baml
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\PaymentsAdd.baml
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\PaymentsDiagram.baml
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\PaymentsWindow.baml
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.g.resources
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.Properties.Resources.resources
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.csproj.GenerateResource.cache
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.csproj.CoreCompileInputs.cache
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.csproj.CopyComplete
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.exe
+E:\БД\Applications\Payments (APP)\Payments\obj\Debug\Payments.pdb

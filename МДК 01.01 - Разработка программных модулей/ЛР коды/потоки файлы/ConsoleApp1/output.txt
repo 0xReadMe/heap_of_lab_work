@@ -1,0 +1,1 @@
+b, q, a, a, a, a, q, q, q, b, b, q, a, q, b, a, q, a, a, b, a, b, b, q, q, q, a, q, b, a, b, b, a, b, q, b, a, q, q, b, a, a, b, q, a, q, a, a, a, q, a, b, a, b, b, b, b, a, q, q, q, b, a, b, b, a, q, a, q, b, q, a, b, a, a, a, q, b, a, b, q, q, q, b, a, b, 

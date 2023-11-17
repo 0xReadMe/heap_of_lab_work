@@ -1,0 +1,30 @@
+body{
+    background-image: url("./img/backdrop.gif");
+}
+
+.title{
+display:flex;
+width: 100%;
+justify-content: center;
+}
+
+
+.kart{
+    display: flex;
+    justify-content: center;
+}
+p{
+    text-align: center;
+    color: rgba(170, 137, 75, 0.849);
+position: relative;
+
+}
+.kon{
+    text-align: center;
+    color: rgba(90, 74, 45, 0.849);
+    list-style: inside;
+    padding: 20px;
+    background-color: darkgrey;
+    list-style-image: url("./img/icon.png");
+    margin: 15px;
+}

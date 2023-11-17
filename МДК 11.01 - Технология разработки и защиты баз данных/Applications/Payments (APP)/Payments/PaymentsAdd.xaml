@@ -1,0 +1,49 @@
+﻿<Window x:Class="Payments.PaymentsAdd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Payments"
+        mc:Ignorable="d"
+        Title="PaymentsAdd" Height="500" Width="500" WindowStartupLocation="CenterOwner">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Дата платежа" Width="200" VerticalAlignment="Center" 
+                           TextAlignment="Right" Margin="5,5,5,5"></TextBlock>
+                <DatePicker Name="DpkPaymentUser" Width="200" IsTodayHighlighted="True" SelectedDate="{Binding DatePayment}"></DatePicker>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Категория" Width="200" VerticalAlignment="Center" 
+                           TextAlignment="Right" Margin="5,5,5,5"></TextBlock>
+                <ComboBox x:Name="CbAddCategory" SelectedItem="{Binding Categories}" Width="200" DisplayMemberPath="Name"></ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Назначение платежа" Width="200" VerticalAlignment="Center" 
+                           TextAlignment="Right" Margin="5,5,5,5"></TextBlock>
+                <TextBox Text="{Binding Discription}"  Width="200"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Количество" Width="200" VerticalAlignment="Center" 
+                           TextAlignment="Right" Margin="5,5,5,5"></TextBlock>
+                <TextBox x:Name="TbCountPaymentAdd" TextChanged="TbCountPaymentAdd_TextChanged" KeyDown="TbCountPaymentAdd_KeyDown" Text="{Binding Count}" Width="200"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Цена" Width="200" VerticalAlignment="Center" 
+                           TextAlignment="Right" Margin="5,5,5,5"></TextBlock>
+                <TextBox x:Name="TbPricePaymentAdd" TextChanged="TbPricePaymentAdd_TextChanged" KeyDown="TbPricePaymentAdd_KeyDown" Text="{Binding Price}" Width="200"></TextBox>
+                <TextBlock Text="рублей" VerticalAlignment="Center"></TextBlock>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Стоимость" Width="200" VerticalAlignment="Center" 
+                           TextAlignment="Right" Margin="5,5,5,5"></TextBlock>
+                <TextBox x:Name="TbCostPaymentAdd"   Width="200" IsReadOnly="True"></TextBox>
+                <TextBlock Text="рублей" VerticalAlignment="Center"></TextBlock>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="BtnSavePayment" Click="BtnSavePayment_Click"  Margin="60,5,20,5" Content="Сохранить"></Button>
+                <Button x:Name="BtnCenselPayment" Click="BtnCenselPayment_Click" Margin="20,5,20,5" Content="Отмена"></Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище RustleModel3" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Agent">
+    <Key>
+      <PropertyRef Name="AgentID" />
+    </Key>
+    <Property Name="AgentID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TypeID" Type="int" Nullable="false" />
+    <Property Name="AgentName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="AgentEmail" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="AgentPhone" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="AgentLogo" Type="nvarchar" MaxLength="50" />
+    <Property Name="AgentAddress" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="AgentPriority" Type="int" Nullable="false" />
+    <Property Name="Director" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="AgentINN" Type="bigint" Nullable="false" />
+    <Property Name="AgentKPP" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="AgentTypes">
+    <Key>
+      <PropertyRef Name="TypeId" />
+    </Key>
+    <Property Name="TypeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TypeName" Type="nchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductId" />
+    </Key>
+    <Property Name="ProductId" Type="int" Nullable="false" />
+    <Property Name="ProductName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ProductType" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ArticleNumber" Type="int" Nullable="false" />
+    <Property Name="PeopleCountForProduction" Type="int" Nullable="false" />
+    <Property Name="WorkshopNumber" Type="int" Nullable="false" />
+    <Property Name="AgentMinPrice" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="RealizationProduct">
+    <Key>
+      <PropertyRef Name="IdRP" />
+    </Key>
+    <Property Name="AgentId" Type="int" Nullable="false" />
+    <Property Name="ProductId" Type="int" Nullable="false" />
+    <Property Name="DataRealization" Type="date" Nullable="false" />
+    <Property Name="ProductCount" Type="int" Nullable="false" />
+    <Property Name="IdRP" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_Agent_AgentTypes">
+    <End Role="AgentTypes" Type="Self.AgentTypes" Multiplicity="1" />
+    <End Role="Agent" Type="Self.Agent" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AgentTypes">
+        <PropertyRef Name="TypeId" />
+      </Principal>
+      <Dependent Role="Agent">
+        <PropertyRef Name="TypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RealizationProduct_Agent1">
+    <End Role="Agent" Type="Self.Agent" Multiplicity="1" />
+    <End Role="RealizationProduct" Type="Self.RealizationProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Agent">
+        <PropertyRef Name="AgentID" />
+      </Principal>
+      <Dependent Role="RealizationProduct">
+        <PropertyRef Name="AgentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RealizationProduct_Product">
+    <End Role="Product" Type="Self.Product" Multiplicity="1" />
+    <End Role="RealizationProduct" Type="Self.RealizationProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductId" />
+      </Principal>
+      <Dependent Role="RealizationProduct">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище RustleModel3Container">
+    <EntitySet Name="Agent" EntityType="Self.Agent" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AgentTypes" EntityType="Self.AgentTypes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Product" EntityType="Self.Product" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RealizationProduct" EntityType="Self.RealizationProduct" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Agent_AgentTypes" Association="Self.FK_Agent_AgentTypes">
+      <End Role="AgentTypes" EntitySet="AgentTypes" />
+      <End Role="Agent" EntitySet="Agent" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RealizationProduct_Agent1" Association="Self.FK_RealizationProduct_Agent1">
+      <End Role="Agent" EntitySet="Agent" />
+      <End Role="RealizationProduct" EntitySet="RealizationProduct" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RealizationProduct_Product" Association="Self.FK_RealizationProduct_Product">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="RealizationProduct" EntitySet="RealizationProduct" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

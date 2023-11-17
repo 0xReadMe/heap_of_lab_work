@@ -1,0 +1,240 @@
+D:\БД\PayM\PayM\bin\Debug\PayM.exe.config
+D:\БД\PayM\PayM\bin\Debug\PayM.exe
+D:\БД\PayM\PayM\bin\Debug\PayM.pdb
+D:\БД\PayM\PayM\obj\Debug\PayM.csproj.AssemblyReference.cache
+D:\БД\PayM\PayM\obj\Debug\PayM.csproj.SuggestedBindingRedirects.cache
+D:\БД\PayM\PayM\obj\Debug\MainWindow.g.cs
+D:\БД\PayM\PayM\obj\Debug\App.g.cs
+D:\БД\PayM\PayM\obj\Debug\PayM_MarkupCompile.cache
+D:\БД\PayM\PayM\obj\Debug\PayM_MarkupCompile.lref
+D:\БД\PayM\PayM\obj\Debug\MainWindow.baml
+D:\БД\PayM\PayM\obj\Debug\PayM.g.resources
+D:\БД\PayM\PayM\obj\Debug\PayM.Properties.Resources.resources
+D:\БД\PayM\PayM\obj\Debug\PayM.csproj.GenerateResource.cache
+D:\БД\PayM\PayM\obj\Debug\PayM.csproj.CoreCompileInputs.cache
+D:\БД\PayM\PayM\obj\Debug\PayM.exe
+D:\БД\PayM\PayM\obj\Debug\PayM.pdb
+D:\БД\PayM\PayM\obj\Debug\Aauthorization.g.cs
+D:\БД\PayM\PayM\obj\Debug\Aauthorization.baml
+G:\БД\PayM\PayM\bin\Debug\PayM.exe.config
+G:\БД\PayM\PayM\bin\Debug\PayM.exe
+G:\БД\PayM\PayM\bin\Debug\PayM.pdb
+G:\БД\PayM\PayM\obj\Debug\PayM.csproj.AssemblyReference.cache
+G:\БД\PayM\PayM\obj\Debug\PayM.csproj.SuggestedBindingRedirects.cache
+G:\БД\PayM\PayM\obj\Debug\Aauthorization.g.cs
+G:\БД\PayM\PayM\obj\Debug\Addendum.g.cs
+G:\БД\PayM\PayM\obj\Debug\MainWindow.g.cs
+G:\БД\PayM\PayM\obj\Debug\Сonfirmation.g.cs
+G:\БД\PayM\PayM\obj\Debug\App.g.cs
+G:\БД\PayM\PayM\obj\Debug\PayM_MarkupCompile.cache
+G:\БД\PayM\PayM\obj\Debug\PayM_MarkupCompile.lref
+G:\БД\PayM\PayM\obj\Debug\Aauthorization.baml
+G:\БД\PayM\PayM\obj\Debug\Addendum.baml
+G:\БД\PayM\PayM\obj\Debug\MainWindow.baml
+G:\БД\PayM\PayM\obj\Debug\Сonfirmation.baml
+G:\БД\PayM\PayM\obj\Debug\PayM.g.resources
+G:\БД\PayM\PayM\obj\Debug\PayM.Properties.Resources.resources
+G:\БД\PayM\PayM\obj\Debug\PayM.csproj.GenerateResource.cache
+G:\БД\PayM\PayM\obj\Debug\PayM.csproj.CoreCompileInputs.cache
+G:\БД\PayM\PayM\obj\Debug\PayM.exe
+G:\БД\PayM\PayM\obj\Debug\PayM.pdb
+G:\БД\PayM\PayM\obj\Debug\Report.g.cs
+G:\БД\PayM\PayM\obj\Debug\Report.baml
+E:\PayM\PayM\bin\Debug\PayM.exe.config
+E:\PayM\PayM\bin\Debug\PayM.exe
+E:\PayM\PayM\bin\Debug\PayM.pdb
+E:\PayM\PayM\obj\Debug\PayM.csproj.AssemblyReference.cache
+E:\PayM\PayM\obj\Debug\PayM.csproj.SuggestedBindingRedirects.cache
+E:\PayM\PayM\obj\Debug\Aauthorization.g.cs
+E:\PayM\PayM\obj\Debug\Addendum.g.cs
+E:\PayM\PayM\obj\Debug\MainWindow.g.cs
+E:\PayM\PayM\obj\Debug\Report.g.cs
+E:\PayM\PayM\obj\Debug\Сonfirmation.g.cs
+E:\PayM\PayM\obj\Debug\App.g.cs
+E:\PayM\PayM\obj\Debug\PayM_MarkupCompile.cache
+E:\PayM\PayM\obj\Debug\PayM_MarkupCompile.lref
+E:\PayM\PayM\obj\Debug\Aauthorization.baml
+E:\PayM\PayM\obj\Debug\Addendum.baml
+E:\PayM\PayM\obj\Debug\MainWindow.baml
+E:\PayM\PayM\obj\Debug\Report.baml
+E:\PayM\PayM\obj\Debug\Сonfirmation.baml
+E:\PayM\PayM\obj\Debug\PayM.g.resources
+E:\PayM\PayM\obj\Debug\PayM.Properties.Resources.resources
+E:\PayM\PayM\obj\Debug\PayM.csproj.GenerateResource.cache
+E:\PayM\PayM\obj\Debug\PayM.csproj.CoreCompileInputs.cache
+E:\PayM\PayM\obj\Debug\PayM.exe
+E:\PayM\PayM\obj\Debug\PayM.pdb
+E:\PayM\PayM\bin\Debug\EntityFramework.dll
+E:\PayM\PayM\bin\Debug\EntityFramework.SqlServer.dll
+E:\PayM\PayM\bin\Debug\EntityFramework.xml
+E:\PayM\PayM\bin\Debug\EntityFramework.SqlServer.xml
+E:\PayM\PayM\bin\Debug\ru\EntityFramework.resources.dll
+E:\PayM\PayM\obj\Debug\PayM_Content.g.cs
+E:\PayM\PayM\obj\Debug\PayM.csproj.CopyComplete
+D:\PayM\PayM\bin\Debug\PayM.exe.config
+D:\PayM\PayM\bin\Debug\PayM.exe
+D:\PayM\PayM\bin\Debug\PayM.pdb
+D:\PayM\PayM\bin\Debug\EntityFramework.dll
+D:\PayM\PayM\bin\Debug\EntityFramework.SqlServer.dll
+D:\PayM\PayM\bin\Debug\EntityFramework.xml
+D:\PayM\PayM\bin\Debug\EntityFramework.SqlServer.xml
+D:\PayM\PayM\bin\Debug\ru\EntityFramework.resources.dll
+D:\PayM\PayM\obj\Debug\PayM.csproj.AssemblyReference.cache
+D:\PayM\PayM\obj\Debug\PayM.csproj.SuggestedBindingRedirects.cache
+D:\PayM\PayM\obj\Debug\Aauthorization.g.cs
+D:\PayM\PayM\obj\Debug\Addendum.g.cs
+D:\PayM\PayM\obj\Debug\MainWindow.g.cs
+D:\PayM\PayM\obj\Debug\Report.g.cs
+D:\PayM\PayM\obj\Debug\Сonfirmation.g.cs
+D:\PayM\PayM\obj\Debug\App.g.cs
+D:\PayM\PayM\obj\Debug\PayM_Content.g.cs
+D:\PayM\PayM\obj\Debug\PayM_MarkupCompile.cache
+D:\PayM\PayM\obj\Debug\PayM_MarkupCompile.lref
+D:\PayM\PayM\obj\Debug\Aauthorization.baml
+D:\PayM\PayM\obj\Debug\Addendum.baml
+D:\PayM\PayM\obj\Debug\MainWindow.baml
+D:\PayM\PayM\obj\Debug\Report.baml
+D:\PayM\PayM\obj\Debug\Сonfirmation.baml
+D:\PayM\PayM\obj\Debug\PayM.g.resources
+D:\PayM\PayM\obj\Debug\PayM.Properties.Resources.resources
+D:\PayM\PayM\obj\Debug\PayM.csproj.GenerateResource.cache
+D:\PayM\PayM\obj\Debug\PayM.csproj.CoreCompileInputs.cache
+D:\PayM\PayM\obj\Debug\PayM.csproj.CopyComplete
+D:\PayM\PayM\obj\Debug\PayM.exe
+D:\PayM\PayM\obj\Debug\PayM.pdb
+G:\PayM\PayM\bin\Debug\PayM.exe.config
+G:\PayM\PayM\bin\Debug\PayM.exe
+G:\PayM\PayM\bin\Debug\PayM.pdb
+G:\PayM\PayM\bin\Debug\EntityFramework.dll
+G:\PayM\PayM\bin\Debug\EntityFramework.SqlServer.dll
+G:\PayM\PayM\bin\Debug\EntityFramework.xml
+G:\PayM\PayM\bin\Debug\EntityFramework.SqlServer.xml
+G:\PayM\PayM\bin\Debug\ru\EntityFramework.resources.dll
+G:\PayM\PayM\obj\Debug\PayM.csproj.AssemblyReference.cache
+G:\PayM\PayM\obj\Debug\PayM.csproj.SuggestedBindingRedirects.cache
+G:\PayM\PayM\obj\Debug\Aauthorization.g.cs
+G:\PayM\PayM\obj\Debug\Addendum.g.cs
+G:\PayM\PayM\obj\Debug\MainWindow.g.cs
+G:\PayM\PayM\obj\Debug\Report.g.cs
+G:\PayM\PayM\obj\Debug\Сonfirmation.g.cs
+G:\PayM\PayM\obj\Debug\App.g.cs
+G:\PayM\PayM\obj\Debug\PayM_Content.g.cs
+G:\PayM\PayM\obj\Debug\PayM_MarkupCompile.cache
+G:\PayM\PayM\obj\Debug\PayM_MarkupCompile.lref
+G:\PayM\PayM\obj\Debug\Aauthorization.baml
+G:\PayM\PayM\obj\Debug\Addendum.baml
+G:\PayM\PayM\obj\Debug\MainWindow.baml
+G:\PayM\PayM\obj\Debug\Report.baml
+G:\PayM\PayM\obj\Debug\Сonfirmation.baml
+G:\PayM\PayM\obj\Debug\PayM.g.resources
+G:\PayM\PayM\obj\Debug\PayM.Properties.Resources.resources
+G:\PayM\PayM\obj\Debug\PayM.csproj.GenerateResource.cache
+G:\PayM\PayM\obj\Debug\PayM.csproj.CoreCompileInputs.cache
+G:\PayM\PayM\obj\Debug\PayM.csproj.CopyComplete
+G:\PayM\PayM\obj\Debug\PayM.exe
+G:\PayM\PayM\obj\Debug\PayM.pdb
+E:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\PayM.exe.config
+E:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\PayM.exe
+E:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\PayM.pdb
+E:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\EntityFramework.dll
+E:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\EntityFramework.SqlServer.dll
+E:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\EntityFramework.xml
+E:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\EntityFramework.SqlServer.xml
+E:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\ru\EntityFramework.resources.dll
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM.csproj.AssemblyReference.cache
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM.csproj.SuggestedBindingRedirects.cache
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\Aauthorization.g.cs
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\Addendum.g.cs
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\MainWindow.g.cs
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\Report.g.cs
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\Сonfirmation.g.cs
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\App.g.cs
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM_Content.g.cs
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM_MarkupCompile.cache
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM_MarkupCompile.lref
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\Aauthorization.baml
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\Addendum.baml
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\MainWindow.baml
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\Report.baml
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\Сonfirmation.baml
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM.g.resources
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM.Properties.Resources.resources
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM.csproj.GenerateResource.cache
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM.csproj.CoreCompileInputs.cache
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM.csproj.CopyComplete
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM.exe
+E:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM.pdb
+E:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\BouncyCastle.Crypto.dll
+E:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\itextsharp.dll
+E:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\itextsharp.xml
+E:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\PayM.exe.config
+D:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\PayM.exe
+D:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\PayM.pdb
+D:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\BouncyCastle.Crypto.dll
+D:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\EntityFramework.dll
+D:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\EntityFramework.SqlServer.dll
+D:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\itextsharp.dll
+D:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\EntityFramework.xml
+D:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\EntityFramework.SqlServer.xml
+D:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\itextsharp.xml
+D:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\ru\EntityFramework.resources.dll
+D:\2ое полугодие\БД\Applications\PayM\PayM\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM.csproj.AssemblyReference.cache
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM.csproj.SuggestedBindingRedirects.cache
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\Aauthorization.g.cs
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\Addendum.g.cs
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\MainWindow.g.cs
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\Report.g.cs
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\Сonfirmation.g.cs
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\App.g.cs
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM_Content.g.cs
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM_MarkupCompile.cache
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM_MarkupCompile.lref
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\Aauthorization.baml
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\Addendum.baml
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\MainWindow.baml
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\Report.baml
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\Сonfirmation.baml
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM.g.resources
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM.Properties.Resources.resources
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM.csproj.GenerateResource.cache
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM.csproj.CoreCompileInputs.cache
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM.csproj.CopyComplete
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM.exe
+D:\2ое полугодие\БД\Applications\PayM\PayM\obj\Debug\PayM.pdb
+G:\БД\Applications\PayM\PayM\bin\Debug\PayM.exe.config
+G:\БД\Applications\PayM\PayM\bin\Debug\PayM.exe
+G:\БД\Applications\PayM\PayM\bin\Debug\PayM.pdb
+G:\БД\Applications\PayM\PayM\bin\Debug\BouncyCastle.Crypto.dll
+G:\БД\Applications\PayM\PayM\bin\Debug\EntityFramework.dll
+G:\БД\Applications\PayM\PayM\bin\Debug\EntityFramework.SqlServer.dll
+G:\БД\Applications\PayM\PayM\bin\Debug\itextsharp.dll
+G:\БД\Applications\PayM\PayM\bin\Debug\EntityFramework.xml
+G:\БД\Applications\PayM\PayM\bin\Debug\EntityFramework.SqlServer.xml
+G:\БД\Applications\PayM\PayM\bin\Debug\itextsharp.xml
+G:\БД\Applications\PayM\PayM\bin\Debug\ru\EntityFramework.resources.dll
+G:\БД\Applications\PayM\PayM\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+G:\БД\Applications\PayM\PayM\obj\Debug\PayM.csproj.AssemblyReference.cache
+G:\БД\Applications\PayM\PayM\obj\Debug\PayM.csproj.SuggestedBindingRedirects.cache
+G:\БД\Applications\PayM\PayM\obj\Debug\Aauthorization.g.cs
+G:\БД\Applications\PayM\PayM\obj\Debug\Addendum.g.cs
+G:\БД\Applications\PayM\PayM\obj\Debug\MainWindow.g.cs
+G:\БД\Applications\PayM\PayM\obj\Debug\Report.g.cs
+G:\БД\Applications\PayM\PayM\obj\Debug\Сonfirmation.g.cs
+G:\БД\Applications\PayM\PayM\obj\Debug\App.g.cs
+G:\БД\Applications\PayM\PayM\obj\Debug\PayM_Content.g.cs
+G:\БД\Applications\PayM\PayM\obj\Debug\PayM_MarkupCompile.cache
+G:\БД\Applications\PayM\PayM\obj\Debug\PayM_MarkupCompile.lref
+G:\БД\Applications\PayM\PayM\obj\Debug\Aauthorization.baml
+G:\БД\Applications\PayM\PayM\obj\Debug\Addendum.baml
+G:\БД\Applications\PayM\PayM\obj\Debug\MainWindow.baml
+G:\БД\Applications\PayM\PayM\obj\Debug\Report.baml
+G:\БД\Applications\PayM\PayM\obj\Debug\Сonfirmation.baml
+G:\БД\Applications\PayM\PayM\obj\Debug\PayM.g.resources
+G:\БД\Applications\PayM\PayM\obj\Debug\PayM.Properties.Resources.resources
+G:\БД\Applications\PayM\PayM\obj\Debug\PayM.csproj.GenerateResource.cache
+G:\БД\Applications\PayM\PayM\obj\Debug\PayM.csproj.CoreCompileInputs.cache
+G:\БД\Applications\PayM\PayM\obj\Debug\PayM.csproj.CopyComplete
+G:\БД\Applications\PayM\PayM\obj\Debug\PayM.exe
+G:\БД\Applications\PayM\PayM\obj\Debug\PayM.pdb

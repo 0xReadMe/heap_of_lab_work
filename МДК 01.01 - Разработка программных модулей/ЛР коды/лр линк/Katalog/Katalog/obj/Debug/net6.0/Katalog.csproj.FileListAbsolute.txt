@@ -1,0 +1,30 @@
+G:\МДК. 01.01\Лабы\Katalog\Katalog\bin\Debug\net6.0\Katalog.exe
+G:\МДК. 01.01\Лабы\Katalog\Katalog\bin\Debug\net6.0\Katalog.deps.json
+G:\МДК. 01.01\Лабы\Katalog\Katalog\bin\Debug\net6.0\Katalog.runtimeconfig.json
+G:\МДК. 01.01\Лабы\Katalog\Katalog\bin\Debug\net6.0\Katalog.dll
+G:\МДК. 01.01\Лабы\Katalog\Katalog\bin\Debug\net6.0\Katalog.pdb
+G:\МДК. 01.01\Лабы\Katalog\Katalog\obj\Debug\net6.0\Katalog.csproj.AssemblyReference.cache
+G:\МДК. 01.01\Лабы\Katalog\Katalog\obj\Debug\net6.0\Katalog.GeneratedMSBuildEditorConfig.editorconfig
+G:\МДК. 01.01\Лабы\Katalog\Katalog\obj\Debug\net6.0\Katalog.AssemblyInfoInputs.cache
+G:\МДК. 01.01\Лабы\Katalog\Katalog\obj\Debug\net6.0\Katalog.AssemblyInfo.cs
+G:\МДК. 01.01\Лабы\Katalog\Katalog\obj\Debug\net6.0\Katalog.csproj.CoreCompileInputs.cache
+G:\МДК. 01.01\Лабы\Katalog\Katalog\obj\Debug\net6.0\Katalog.dll
+G:\МДК. 01.01\Лабы\Katalog\Katalog\obj\Debug\net6.0\refint\Katalog.dll
+G:\МДК. 01.01\Лабы\Katalog\Katalog\obj\Debug\net6.0\Katalog.pdb
+G:\МДК. 01.01\Лабы\Katalog\Katalog\obj\Debug\net6.0\Katalog.genruntimeconfig.cache
+G:\МДК. 01.01\Лабы\Katalog\Katalog\obj\Debug\net6.0\ref\Katalog.dll
+C:\Users\8-bit\Desktop\Katalog\Katalog\obj\Debug\net6.0\Katalog.csproj.AssemblyReference.cache
+C:\Users\8-bit\Desktop\Katalog\Katalog\obj\Debug\net6.0\Katalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8-bit\Desktop\Katalog\Katalog\obj\Debug\net6.0\Katalog.AssemblyInfoInputs.cache
+C:\Users\8-bit\Desktop\Katalog\Katalog\obj\Debug\net6.0\Katalog.AssemblyInfo.cs
+C:\Users\8-bit\Desktop\Katalog\Katalog\obj\Debug\net6.0\Katalog.csproj.CoreCompileInputs.cache
+C:\Users\8-bit\Desktop\Katalog\Katalog\obj\Debug\net6.0\Katalog.dll
+C:\Users\8-bit\Desktop\Katalog\Katalog\obj\Debug\net6.0\refint\Katalog.dll
+C:\Users\8-bit\Desktop\Katalog\Katalog\obj\Debug\net6.0\Katalog.pdb
+C:\Users\8-bit\Desktop\Katalog\Katalog\bin\Debug\net6.0\Katalog.exe
+C:\Users\8-bit\Desktop\Katalog\Katalog\bin\Debug\net6.0\Katalog.deps.json
+C:\Users\8-bit\Desktop\Katalog\Katalog\bin\Debug\net6.0\Katalog.runtimeconfig.json
+C:\Users\8-bit\Desktop\Katalog\Katalog\bin\Debug\net6.0\Katalog.dll
+C:\Users\8-bit\Desktop\Katalog\Katalog\bin\Debug\net6.0\Katalog.pdb
+C:\Users\8-bit\Desktop\Katalog\Katalog\obj\Debug\net6.0\Katalog.genruntimeconfig.cache
+C:\Users\8-bit\Desktop\Katalog\Katalog\obj\Debug\net6.0\ref\Katalog.dll

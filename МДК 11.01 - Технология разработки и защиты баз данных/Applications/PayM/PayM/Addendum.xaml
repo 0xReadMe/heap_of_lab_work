@@ -1,0 +1,58 @@
+﻿<Window x:Class="PayM.Addendum"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PayM"
+        mc:Ignorable="d"
+        Title="Addendum" Height="590" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+
+        <TextBlock Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">Категория</TextBlock>
+        <ComboBox x:Name="CategoryCB" SelectedItem="{Binding Categories}" DisplayMemberPath="Name" Width="200" Height="25" Grid.Row="0" Grid.Column="1"></ComboBox>
+
+        <TextBlock Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">Назначение платежа</TextBlock>
+        <TextBox Width="200" Text="{Binding Discription}"  Height="30" Grid.Row="1" Grid.Column="1"></TextBox>
+
+        <TextBlock Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">Количество</TextBlock>
+        <TextBox x:Name="TbCountPaymentAdd" Text="{Binding Count}" Height="30" Grid.Row="2" Grid.Column="1" Margin="34,25,116,25"/>
+
+        <TextBlock Grid.Row="3" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">Цена</TextBlock>
+        <TextBox x:Name="TbPricePaymentAdd" Text="{Binding Price}" Height="30" Grid.Row="3" Grid.Column="1" Margin="34,25,116,25"/>
+        <TextBlock Grid.Row="3" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="156,0,0,0">p.</TextBlock>
+
+
+        <TextBlock Grid.Row="4" Grid.Column="0" Text="Дата платежа" VerticalAlignment="Center" 
+                           TextAlignment="Right" Margin="5,5,5,5" HorizontalAlignment="Center"></TextBlock>
+        <DatePicker Grid.Row="4" Grid.Column="1" Name="DpkPaymentUser" Height="60" IsTodayHighlighted="True" SelectedDate="{Binding DatePayment}"></DatePicker>
+
+        
+        
+        <TextBlock Grid.Row="5" Grid.Column="0" Text="Стоимость" VerticalAlignment="Center" 
+                           TextAlignment="Right" Margin="5,5,5,5" HorizontalAlignment="Center"></TextBlock>
+        <TextBox x:Name="TbCostPaymentAdd" Grid.Row="5" Grid.Column="1" Height="30" Width="170" ></TextBox>
+        <TextBlock Grid.Row="5" Grid.Column="1"  Text="рублей" HorizontalAlignment="Right" VerticalAlignment="Center"></TextBlock>
+
+        
+        
+        <Button x:Name="Add" Click="Add_Click"  Grid.Row="6" Grid.Column="1" Width="90" Height="35" HorizontalAlignment="Left" Margin="34,18,0,27" >Добавить</Button>
+        <Button x:Name="Cancel" Click="Cancel_Click" Grid.Row="6" Grid.Column="1" Width="90" Height="35" HorizontalAlignment="Left" Margin="161,18,0,27" >Отменить</Button>
+
+        
+
+    </Grid>
+</Window>

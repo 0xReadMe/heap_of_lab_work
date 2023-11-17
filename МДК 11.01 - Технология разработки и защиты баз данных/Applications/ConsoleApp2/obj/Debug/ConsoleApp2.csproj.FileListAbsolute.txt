@@ -1,0 +1,28 @@
+C:\Users\SP4-IVC\Desktop\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\SP4-IVC\Desktop\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\SP4-IVC\Desktop\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\SP4-IVC\Desktop\ConsoleApp2\bin\Debug\EntityFramework.dll
+C:\Users\SP4-IVC\Desktop\ConsoleApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SP4-IVC\Desktop\ConsoleApp2\bin\Debug\EntityFramework.xml
+C:\Users\SP4-IVC\Desktop\ConsoleApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SP4-IVC\Desktop\ConsoleApp2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SP4-IVC\Desktop\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\SP4-IVC\Desktop\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\SP4-IVC\Desktop\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\SP4-IVC\Desktop\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\SP4-IVC\Desktop\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\SP4-IVC\Desktop\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+E:\2ое полугодие\БД\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\2ое полугодие\БД\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\2ое полугодие\БД\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\2ое полугодие\БД\ConsoleApp2\bin\Debug\EntityFramework.dll
+E:\2ое полугодие\БД\ConsoleApp2\bin\Debug\EntityFramework.SqlServer.dll
+E:\2ое полугодие\БД\ConsoleApp2\bin\Debug\EntityFramework.xml
+E:\2ое полугодие\БД\ConsoleApp2\bin\Debug\EntityFramework.SqlServer.xml
+E:\2ое полугодие\БД\ConsoleApp2\bin\Debug\ru\EntityFramework.resources.dll
+E:\2ое полугодие\БД\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+E:\2ое полугодие\БД\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+E:\2ое полугодие\БД\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\2ое полугодие\БД\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+E:\2ое полугодие\БД\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\2ое полугодие\БД\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

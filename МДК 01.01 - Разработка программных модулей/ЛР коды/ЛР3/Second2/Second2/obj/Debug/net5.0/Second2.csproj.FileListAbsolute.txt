@@ -1,0 +1,32 @@
+G:\МДК. 01.01\Лабы\Second2\Second2\bin\Debug\net5.0\Second2.exe
+G:\МДК. 01.01\Лабы\Second2\Second2\bin\Debug\net5.0\Second2.deps.json
+G:\МДК. 01.01\Лабы\Second2\Second2\bin\Debug\net5.0\Second2.runtimeconfig.json
+G:\МДК. 01.01\Лабы\Second2\Second2\bin\Debug\net5.0\Second2.runtimeconfig.dev.json
+G:\МДК. 01.01\Лабы\Second2\Second2\bin\Debug\net5.0\Second2.dll
+G:\МДК. 01.01\Лабы\Second2\Second2\bin\Debug\net5.0\ref\Second2.dll
+G:\МДК. 01.01\Лабы\Second2\Second2\bin\Debug\net5.0\Second2.pdb
+G:\МДК. 01.01\Лабы\Second2\Second2\obj\Debug\net5.0\Second2.csproj.AssemblyReference.cache
+G:\МДК. 01.01\Лабы\Second2\Second2\obj\Debug\net5.0\Second2.GeneratedMSBuildEditorConfig.editorconfig
+G:\МДК. 01.01\Лабы\Second2\Second2\obj\Debug\net5.0\Second2.AssemblyInfoInputs.cache
+G:\МДК. 01.01\Лабы\Second2\Second2\obj\Debug\net5.0\Second2.AssemblyInfo.cs
+G:\МДК. 01.01\Лабы\Second2\Second2\obj\Debug\net5.0\Second2.csproj.CoreCompileInputs.cache
+G:\МДК. 01.01\Лабы\Second2\Second2\obj\Debug\net5.0\Second2.dll
+G:\МДК. 01.01\Лабы\Second2\Second2\obj\Debug\net5.0\ref\Second2.dll
+G:\МДК. 01.01\Лабы\Second2\Second2\obj\Debug\net5.0\Second2.pdb
+G:\МДК. 01.01\Лабы\Second2\Second2\obj\Debug\net5.0\Second2.genruntimeconfig.cache
+C:\Users\SP4-IVC\Desktop\0101\ЛР3\Second2\Second2\bin\Debug\net5.0\Second2.exe
+C:\Users\SP4-IVC\Desktop\0101\ЛР3\Second2\Second2\bin\Debug\net5.0\Second2.deps.json
+C:\Users\SP4-IVC\Desktop\0101\ЛР3\Second2\Second2\bin\Debug\net5.0\Second2.runtimeconfig.json
+C:\Users\SP4-IVC\Desktop\0101\ЛР3\Second2\Second2\bin\Debug\net5.0\Second2.runtimeconfig.dev.json
+C:\Users\SP4-IVC\Desktop\0101\ЛР3\Second2\Second2\bin\Debug\net5.0\Second2.dll
+C:\Users\SP4-IVC\Desktop\0101\ЛР3\Second2\Second2\bin\Debug\net5.0\Second2.pdb
+C:\Users\SP4-IVC\Desktop\0101\ЛР3\Second2\Second2\obj\Debug\net5.0\Second2.csproj.AssemblyReference.cache
+C:\Users\SP4-IVC\Desktop\0101\ЛР3\Second2\Second2\obj\Debug\net5.0\Second2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SP4-IVC\Desktop\0101\ЛР3\Second2\Second2\obj\Debug\net5.0\Second2.AssemblyInfoInputs.cache
+C:\Users\SP4-IVC\Desktop\0101\ЛР3\Second2\Second2\obj\Debug\net5.0\Second2.AssemblyInfo.cs
+C:\Users\SP4-IVC\Desktop\0101\ЛР3\Second2\Second2\obj\Debug\net5.0\Second2.csproj.CoreCompileInputs.cache
+C:\Users\SP4-IVC\Desktop\0101\ЛР3\Second2\Second2\obj\Debug\net5.0\Second2.dll
+C:\Users\SP4-IVC\Desktop\0101\ЛР3\Second2\Second2\obj\Debug\net5.0\refint\Second2.dll
+C:\Users\SP4-IVC\Desktop\0101\ЛР3\Second2\Second2\obj\Debug\net5.0\Second2.pdb
+C:\Users\SP4-IVC\Desktop\0101\ЛР3\Second2\Second2\obj\Debug\net5.0\Second2.genruntimeconfig.cache
+C:\Users\SP4-IVC\Desktop\0101\ЛР3\Second2\Second2\obj\Debug\net5.0\ref\Second2.dll

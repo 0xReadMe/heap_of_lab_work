@@ -1,0 +1,208 @@
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.baml
+D:\3 курс\МДК 01.01\WPF\ЛР1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+D:\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+D:\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+D:\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+D:\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+D:\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+D:\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.baml
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.baml
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\Acer\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+I:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+I:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+I:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+I:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+I:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.baml
+I:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+I:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+I:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+I:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+I:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+I:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+I:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+I:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+I:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+I:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Formaregistr.db
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll.config
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\EntityFramework.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Formaregistr.db
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll.config
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\EntityFramework.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+E:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+E:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+E:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+E:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.baml
+E:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+E:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+E:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+E:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+E:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+E:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+E:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+E:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+E:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+E:\мдк 01.01\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Formaregistr.db
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll.config
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.baml
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\AuthWindow.g.cs
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\AuthWindow.baml
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\UserPageWindow.g.cs
+C:\Users\SP4-IVC\Desktop\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\UserPageWindow.baml

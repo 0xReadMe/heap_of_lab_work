@@ -1,0 +1,33 @@
+﻿<Window x:Class="Payments.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Payments"
+        mc:Ignorable="d" 
+        Title="Авторизация" Height="230" Width="350" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Style="{StaticResource CommonBlock}" Text="Имя пользователя" 
+                               FontSize="14"></TextBlock>
+                    <ComboBox x:Name="CbUser" FontSize="14" DisplayMemberPath="Login"></ComboBox>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Style="{StaticResource CommonBlock}" Text="Пароль"
+                               FontSize="14"></TextBlock>
+                 <PasswordBox x:Name="PwPassword" FontSize="14" Width="120" Margin="5" ></PasswordBox>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <Button x:Name="BtnLogin" Content="Выполнить" FontSize="14" Click="BtbLogin_Click"></Button>
+                    <Button x:Name="BtnExit" Content="Выход" FontSize="14" Click="BtnExit_Click"></Button>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
