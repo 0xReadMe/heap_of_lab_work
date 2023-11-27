@@ -16,3 +16,5 @@
 ![DonateMe](https://static.goodgame.ru/files/logotypes/ch_167749_PobY.png)
 
 Поддержать автора чашкой кофе - https://pay.cloudtips.ru/p/50aa8ceb
+
+https://t.me/cross_readme
